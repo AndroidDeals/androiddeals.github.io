@@ -2,8 +2,8 @@
 
 
 ## 亚马逊火柴棍常用的应用以及介绍。 [![瘦小的圆角矩形](https://img.shields.io/badge/我的淘宝店铺-AndroidDeals-brightgreen.svg?style=plastic)](https://item.taobao.com/item.htm?spm=a1z10.1-c.w4004-5759726203.2.63e6362fkQaoVr&id=586454403742)
-[(https://img.shields.io/badge/我的电报群-success?logo=telegram)](https://t.me/joinchat/HAPwwxAESAEfq3HGzYo73A)
 
+![带logo社交样式](https://img.shields.io/badge/GitHub-10k+-yellow.svg?style=social&logo=github)
 
 * Smart Youtube TV来自[yuliskov](https://github.com/yuliskov/SmartYouTubeTV)的项目。
 
