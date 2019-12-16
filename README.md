@@ -8,4 +8,6 @@
 
 * SSRR来自[Akkariiin](https://github.com/shadowsocksrr/shadowsocksr-android/releases)的项目。
 
+* ADBlink来自[jocala](http://www.jocala.com/)这个网站。
+
 * [添加新电视机和连接蓝牙设备的视频教程以及`ADB安装第三方应用`的教程请戳这里。](https://drive.google.com/open?id=1rTUeXJX8zQlmNUGqomyMLMwmMuaG9I8M)
