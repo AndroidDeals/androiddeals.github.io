@@ -1,7 +1,7 @@
 # Fire TV stick 4K 的一些应用
 
 
-## 亚马逊火柴棍常用的应用以及介绍。 [![瘦小的圆角矩形](https://img.shields.io/badge/我的淘宝店铺-AndroidDeals-brightgreen.svg?style=plastic)](https://item.taobao.com/item.htm?spm=a1z10.1-c.w4004-5759726203.2.63e6362fkQaoVr&id=586454403742) ?style=plastic&logo=appveyor
+## 亚马逊火柴棍常用的应用以及介绍。 [![瘦小的圆角矩形](https://img.shields.io/badge/我的淘宝店铺-AndroidDeals-brightgreen.svg?style=plastic)](https://item.taobao.com/item.htm?spm=a1z10.1-c.w4004-5759726203.2.63e6362fkQaoVr&id=586454403742)   [https://img.shields.io/badge/%E6%88%91%E7%9A%84%E7%94%B5%E6%8A%A5%E7%BE%A4-success?logo=telegram](https://t.me/joinchat/HAPwwxAESAEfq3HGzYo73A)
 
 
 * Smart Youtube TV来自[yuliskov](https://github.com/yuliskov/SmartYouTubeTV)的项目。
