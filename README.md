@@ -7,4 +7,4 @@
 * Smart Youtube TV来自作者[yuliskov](https://github.com/yuliskov/SmartYouTubeTV)的项目.
 
 
-[新增电视机和连接蓝牙设备的视频教程以及  ADB安装第三方应用  的教程请戳这里](https://drive.google.com/open?id=1rTUeXJX8zQlmNUGqomyMLMwmMuaG9I8M)
+[新增电视机和连接蓝牙设备的视频教程以及`ADB安装第三方应用`的教程请戳这里](https://drive.google.com/open?id=1rTUeXJX8zQlmNUGqomyMLMwmMuaG9I8M)
