@@ -37,4 +37,4 @@
 ![](https://github.com/jackadams324/Fire-TV-stick-applications/blob/master/adblink-ADB%E5%AE%89%E8%A3%85%E7%A5%9E%E5%99%A8/adblink%E6%88%AA%E5%9B%BE/%E6%88%AA%E5%B1%8F2019-12-16%E4%B8%8B%E5%8D%8810.17.35.png)
 
 实际上这个应用功能不止如此，大家可以自己发掘。
-
+https://img.shields.io/badge/style-for--the--badge-green?logo=appveyor&style=for-the-badge
