@@ -28,6 +28,13 @@
 ### 如图所示：
 ![](https://github.com/jackadams324/Fire-TV-stick-applications/blob/master/adblink-ADB%E5%AE%89%E8%A3%85%E7%A5%9E%E5%99%A8/adblink%E6%88%AA%E5%9B%BE/%E6%88%AA%E5%B1%8F2019-12-16%E4%B8%8B%E5%8D%889.58.04.png)
 ![](https://github.com/jackadams324/Fire-TV-stick-applications/blob/master/adblink-ADB%E5%AE%89%E8%A3%85%E7%A5%9E%E5%99%A8/adblink%E6%88%AA%E5%9B%BE/%E6%88%AA%E5%B1%8F2019-12-16%E4%B8%8B%E5%8D%8810.01.27.png)
-#### 这个时候点击connect，接下来电视机上会显示新设备认证，选择allow。允许之后，就连接成功了。
+
+4.这个时候点击connect，接下来电视机上会显示新设备认证，选择allow。允许之后，就连接成功了。
 ![](https://github.com/jackadams324/Fire-TV-stick-applications/blob/master/adblink-ADB%E5%AE%89%E8%A3%85%E7%A5%9E%E5%99%A8/adblink%E6%88%AA%E5%9B%BE/%E6%88%AA%E5%B1%8F2019-12-16%E4%B8%8B%E5%8D%8810.16.25.png)
 ![](https://github.com/jackadams324/Fire-TV-stick-applications/blob/master/adblink-ADB%E5%AE%89%E8%A3%85%E7%A5%9E%E5%99%A8/adblink%E6%88%AA%E5%9B%BE/3EAC88DB57EF146FA6ECF27C71CA8F59.jpg)
+
+5.点击install APK，跳出文件夹，直接选择想要安装的应用安装就可以了。
+![](https://github.com/jackadams324/Fire-TV-stick-applications/blob/master/adblink-ADB%E5%AE%89%E8%A3%85%E7%A5%9E%E5%99%A8/adblink%E6%88%AA%E5%9B%BE/%E6%88%AA%E5%B1%8F2019-12-16%E4%B8%8B%E5%8D%8810.17.35.png)
+
+实际上这个应用功能不止如此，大家可以自己发掘。
+
