@@ -1,9 +1,7 @@
 # Fire TV stick 4K 的一些应用
 
 
-## 亚马逊火柴棍常用的应用以及介绍。 [![瘦小的圆角矩形](https://img.shields.io/badge/我的淘宝店铺-AndroidDeals-brightgreen.svg?style=plastic)](https://item.taobao.com/item.htm?spm=a1z10.1-c.w4004-5759726203.2.63e6362fkQaoVr&id=586454403742)  
-
-## [![](https://img.shields.io/badge/我的电报群-success.svg?style=plastic)](https://t.me/joinchat/HAPwwxAESAEfq3HGzYo73A)
+## 亚马逊火柴棍常用的应用以及介绍。 [![](https://img.shields.io/badge/style-for--the--badge-green?logo=appveyor&style=for-the-badge)](https://t.me/joinchat/HAPwwxAESAEfq3HGzYo73A)
 
 
 
