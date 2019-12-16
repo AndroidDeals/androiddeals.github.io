@@ -1,7 +1,8 @@
 # Fire TV stick 4K 的一些应用
 
 
-## 亚马逊火柴棍常用的应用以及介绍。 [![瘦小的圆角矩形](https://img.shields.io/badge/我的淘宝店铺-AndroidDeals-brightgreen.svg?style=plastic)](https://item.taobao.com/item.htm?spm=a1z10.1-c.w4004-5759726203.2.63e6362fkQaoVr&id=586454403742)    [(https://img.shields.io/badge/我的电报群-success?logo=telegram)](https://t.me/joinchat/HAPwwxAESAEfq3HGzYo73A)
+## 亚马逊火柴棍常用的应用以及介绍。 [![瘦小的圆角矩形](https://img.shields.io/badge/我的淘宝店铺-AndroidDeals-brightgreen.svg?style=plastic)](https://item.taobao.com/item.htm?spm=a1z10.1-c.w4004-5759726203.2.63e6362fkQaoVr&id=586454403742)
+[(https://img.shields.io/badge/我的电报群-success?logo=telegram)](https://t.me/joinchat/HAPwwxAESAEfq3HGzYo73A)
 
 
 * Smart Youtube TV来自[yuliskov](https://github.com/yuliskov/SmartYouTubeTV)的项目。
@@ -37,4 +38,4 @@
 ![](https://github.com/jackadams324/Fire-TV-stick-applications/blob/master/adblink-ADB%E5%AE%89%E8%A3%85%E7%A5%9E%E5%99%A8/adblink%E6%88%AA%E5%9B%BE/%E6%88%AA%E5%B1%8F2019-12-16%E4%B8%8B%E5%8D%8810.17.35.png)
 
 实际上这个应用功能不止如此，大家可以自己发掘。
-https://img.shields.io/badge/style-for--the--badge-green?logo=appveyor&style=for-the-badge
+
