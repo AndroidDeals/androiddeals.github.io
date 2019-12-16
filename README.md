@@ -15,6 +15,11 @@
 
 ## ADBlink使用方法
 
-打开 fire tv，选择Settings -> My Fire TV -> Developer Option。然后打开 ADB debugging 和 Apps from Unknowing Sources 选项。
-如图所示：
+1.打开 fire tv，选择Settings -> My Fire TV -> Developer Option。然后打开 ADB debugging 和 Apps from Unknowing Sources 选项。
+
+###如图所示：
 ![](https://github.com/jackadams324/Fire-TV-stick-applications/blob/master/adblink-ADB%E5%AE%89%E8%A3%85%E7%A5%9E%E5%99%A8/adblink%E6%88%AA%E5%9B%BE/3CE3C18C6B13829766B376FAAB45E515.png)
+
+2.选择Settings -> My Fire TV -> About -> Network，记住机子的IP地址。
+###如图所示：
+![](https://github.com/jackadams324/Fire-TV-stick-applications/blob/master/adblink-ADB%E5%AE%89%E8%A3%85%E7%A5%9E%E5%99%A8/adblink%E6%88%AA%E5%9B%BE/21B48C57C27EBF0EF8F330BA1AE8B7C8.png)
