@@ -2,15 +2,14 @@
 
 
 ## 亚马逊火柴棍常用的应用以及介绍。
+[![](https://img.shields.io/badge/%E6%88%91%E7%9A%84%E7%94%B5%E6%8A%A5%E7%BE%A4-success?logo=telegram)](https://t.me/joinchat/HAPwwxAESAEfq3HGzYo73A)       [![](https://img.shields.io/badge/%E6%88%91%E7%9A%84%E6%B7%98%E5%AE%9D%E5%BA%97%E9%93%BA-AndroidDeals-orange)](https://item.taobao.com/item.htm?spm=a1z10.1-c.w4004-5759726203.2.63e6362fkQaoVr&id=586454403742)
 
- [![](https://img.shields.io/badge/%E6%88%91%E7%9A%84%E7%94%B5%E6%8A%A5%E7%BE%A4-success?logo=telegram)](https://t.me/joinchat/HAPwwxAESAEfq3HGzYo73A)        [![](https://img.shields.io/badge/%E6%88%91%E7%9A%84%E6%B7%98%E5%AE%9D%E5%BA%97%E9%93%BA-AndroidDeals-orange)](https://item.taobao.com/item.htm?spm=a1z10.1-c.w4004-5759726203.2.63e6362fkQaoVr&id=586454403742)  
 
+* [Smart Youtube TV](https://github.com/jackadams324/jackadams324.github.io/blob/master/Fire%20TV%E5%BA%94%E7%94%A8/smartyoutubetv_latest.apk?raw=true)来自[yuliskov](https://github.com/yuliskov/SmartYouTubeTV)的项目。
 
-* Smart Youtube TV来自[yuliskov](https://github.com/yuliskov/SmartYouTubeTV)的项目。
+* [SSRR](https://github.com/jackadams324/jackadams324.github.io/blob/master/Fire%20TV%E5%BA%94%E7%94%A8/SSRR-3.5.4.apk?raw=true)来自[Akkariiin](https://github.com/shadowsocksrr/shadowsocksr-android/releases)的项目。
 
-* SSRR来自[Akkariiin](https://github.com/shadowsocksrr/shadowsocksr-android/releases)的项目。
-
-* ADBlink来自[jocala](http://www.jocala.com/)这个网站。
+* [ADBlink](https://github.com/jackadams324/jackadams324.github.io/tree/master/ADBLink)来自[jocala](http://www.jocala.com/)这个网站。
 
 * [添加新电视机和连接蓝牙设备的视频教程以及`ADB安装第三方应用`的教程请戳这里。](https://drive.google.com/open?id=1rTUeXJX8zQlmNUGqomyMLMwmMuaG9I8M)
 
