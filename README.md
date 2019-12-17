@@ -11,7 +11,7 @@
 
 * [ADBlink](https://github.com/jackadams324/jackadams324.github.io/tree/master/ADBLink)来自[jocala](http://www.jocala.com/)这个网站。
 
-* [添加新电视机和连接蓝牙设备的视频教程以及`ADB安装第三方应用`的教程请戳这里。](https://drive.google.com/open?id=1rTUeXJX8zQlmNUGqomyMLMwmMuaG9I8M)
+* 添加新电视机和连接蓝牙设备的视频教程以及`ADB安装第三方应用`的教程请戳[这里](https://drive.google.com/open?id=1rTUeXJX8zQlmNUGqomyMLMwmMuaG9I8M)。
 
 
 ## ADBlink使用方法
