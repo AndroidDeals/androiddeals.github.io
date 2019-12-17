@@ -20,23 +20,23 @@
 1.打开 fire tv，选择Settings -> My Fire TV -> Developer Option。然后打开 ADB debugging 和 Apps from Unknowing Sources 选项。
 
 ### 如图所示：
-![](https://github.com/jackadams324/jackadams324.github.io/blob/master/ADBLink/Screenshots/1.png)
+![image](https://github.com/jackadams324/jackadams324.github.io/blob/master/ADBLink/Screenshots/1.png)
 
 2.选择Settings -> My Fire TV -> About -> Network，记住机子的IP地址。
 ### 如图所示：
-![](https://github.com/jackadams324/jackadams324.github.io/blob/master/ADBLink/Screenshots/2.png)
+![image](https://github.com/jackadams324/jackadams324.github.io/blob/master/ADBLink/Screenshots/2.png)
 
 3.打开ADBlink这个应用，新增设备。各平台版本几乎没有差别。
 ### 如图所示：
-![](https://github.com/jackadams324/jackadams324.github.io/blob/master/ADBLink/Screenshots/3.png)
-![](https://github.com/jackadams324/jackadams324.github.io/blob/master/ADBLink/Screenshots/4.png)
+![image](https://github.com/jackadams324/jackadams324.github.io/blob/master/ADBLink/Screenshots/3.png)
+![image](https://github.com/jackadams324/jackadams324.github.io/blob/master/ADBLink/Screenshots/4.png)
 
 4.这个时候点击connect，接下来电视机上会显示新设备认证，选择allow。允许之后，就连接成功了。
-![](https://github.com/jackadams324/jackadams324.github.io/blob/master/ADBLink/Screenshots/5.png)
-![](https://github.com/jackadams324/jackadams324.github.io/blob/master/ADBLink/Screenshots/6.jpg)
+![image](https://github.com/jackadams324/jackadams324.github.io/blob/master/ADBLink/Screenshots/5.png)
+![image](https://github.com/jackadams324/jackadams324.github.io/blob/master/ADBLink/Screenshots/6.jpg)
 
 5.点击install APK，跳出文件夹，直接选择想要安装的应用安装就可以了。
-![](https://github.com/jackadams324/jackadams324.github.io/blob/master/ADBLink/Screenshots/7.png)
+![image](https://github.com/jackadams324/jackadams324.github.io/blob/master/ADBLink/Screenshots/7.png)
 
 实际上这个应用功能不止如此，大家可以自己发掘。
 
