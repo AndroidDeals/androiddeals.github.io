@@ -5,9 +5,9 @@
 [![](https://img.shields.io/badge/%E6%88%91%E7%9A%84%E7%94%B5%E6%8A%A5%E7%BE%A4-success?logo=telegram)](https://t.me/joinchat/HAPwwxAESAEfq3HGzYo73A)       [![](https://img.shields.io/badge/%E6%88%91%E7%9A%84%E6%B7%98%E5%AE%9D%E5%BA%97%E9%93%BA-AndroidDeals-orange)](https://item.taobao.com/item.htm?spm=a1z10.1-c.w4004-5759726203.2.63e6362fkQaoVr&id=586454403742)
 
 
-* [Smart Youtube TV](https://github.com/jackadams324/jackadams324.github.io/blob/master/Fire%20TV%E5%BA%94%E7%94%A8/smartyoutubetv_latest.apk)来自[yuliskov](https://github.com/yuliskov/SmartYouTubeTV)的项目。
+* [Smart Youtube TV](https://github.com/jackadams324/jackadams324.github.io/blob/master/Fire%20TV%E5%BA%94%E7%94%A8/smartyoutubetv_latest.apk?raw=true)来自[yuliskov](https://github.com/yuliskov/SmartYouTubeTV)的项目。
 
-* [SSRR](https://github.com/jackadams324/jackadams324.github.io/blob/master/Fire%20TV%E5%BA%94%E7%94%A8/SSRR-3.5.4.apk)来自[Akkariiin](https://github.com/shadowsocksrr/shadowsocksr-android/releases)的项目。
+* [SSRR](https://github.com/jackadams324/jackadams324.github.io/blob/master/Fire%20TV%E5%BA%94%E7%94%A8/SSRR-3.5.4.apk?raw=true)来自[Akkariiin](https://github.com/shadowsocksrr/shadowsocksr-android/releases)的项目。
 
 * [ADBlink](https://github.com/jackadams324/jackadams324.github.io/tree/master/ADBLink)来自[jocala](http://www.jocala.com/)这个网站。
 
