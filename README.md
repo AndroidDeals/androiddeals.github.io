@@ -3,5 +3,6 @@
 
 
 普通教程，请看[这里](https://github.com/AndroidDeals/AndroidDeals.github.io/blob/master/README%202.md)
+
 安装搜狗输入法请看[这里](https://github.com/AndroidDeals/AndroidDeals.github.io/blob/master/README%203.md)
 
