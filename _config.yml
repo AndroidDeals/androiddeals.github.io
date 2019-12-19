@@ -1,6 +1,22 @@
 theme: jekyll-theme-modernist
+
 title: AndroidDeals
+
 description: 简单但实用的介绍~
+
 show_downloads: true
+
 # Google Analytics
 google_analytics: UA-154760337-1
+
+navbar-links:
+  主页: "https://androiddeals.github.io/"
+  入门教程: 
+   - 小米: "https://androiddeals.github.io/xiaomi/"
+   - 标签: "https://zoharandroid.github.io/tags/"
+  项目:
+    - GitHub: "https://github.com/ZoharAndroid"
+    - HelloOffer: "https://github.com/ZoharAndroid/HelloOffer"
+    - LeetCode: "https://github.com/ZoharAndroid/LeetCode"
+  关于我: "aboutme"
+  搜索: "search"
