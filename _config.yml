@@ -41,10 +41,3 @@ exclude: [_site, CHANGELOG.md, LICENSE, README.md]
 sass:
   style: compressed
 
-gitalk: true
-gitalk_clientid: 'e61dacfe8cc9e839ac1a'
-gitalk_secret: '773c84147f8562e9b366c0301b2413812d69bca8'
-gitalk_repo: 'androiddeals.github.io'
-gitalk_owner: 'AndroidDeals'
-gitalk_admin: 'AndroidDeals'
-gitalk_dfm: false
