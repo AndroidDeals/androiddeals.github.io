@@ -9,10 +9,14 @@ show_downloads: true
 # Google Analytics
 google_analytics: UA-154760337-1
 
+# 添加category内容
+permalink: /:categories/:title/
+
+# List of links in the navigation bar
 navbar-links:
-  主页: "https://androiddeals.github.io/"
-  入门教程: 
-   - 小米: "https://androiddeals.github.io/xiaomi/"
+  主页: "https://zoharandroid.github.io"
+  博客: 
+   - 分类: "https://zoharandroid.github.io/categories/"
    - 标签: "https://zoharandroid.github.io/tags/"
   项目:
     - GitHub: "https://github.com/ZoharAndroid"
