@@ -7,6 +7,7 @@
 
 ### 这时我们找到内部版本号，连续点击，会提示你再点击几次之后会拥有开发者选项。成功之后再返回设置，就可以看到开发者选项这一栏了。
 ![preview](https://raw.githubusercontent.com/AndroidDeals/AndroidDeals.github.io/master/Screenshots/m2.png)
+
 ![preview](https://raw.githubusercontent.com/AndroidDeals/AndroidDeals.github.io/master/Screenshots/m3.png)
 
 ### 随即往下找到USB调试，大功告成啦。这时候，就可以用ADB工具进行安装第三方应用操作了。
