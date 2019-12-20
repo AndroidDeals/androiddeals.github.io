@@ -5,7 +5,7 @@ date:   2019-12-19 18:52:21 -0500
 
 ---
 # 原生Android TV如何打开ADB调试。
-[![](https://img.shields.io/badge/我的主页-blue?logo=github)](https://androiddeals.github.io/)      [![](https://img.shields.io/badge/%E6%88%91%E7%9A%84%E7%94%B5%E6%8A%A5%E7%BE%A4-success?logo=telegram)](https://t.me/joinchat/HAPwwxAESAEfq3HGzYo73A)      [![](https://img.shields.io/badge/%E6%88%91%E7%9A%84%E6%B7%98%E5%AE%9D%E5%BA%97%E9%93%BA-AndroidDeals-orange)](https://shop108859308.taobao.com/)
+[![](https://img.shields.io/badge/我的GitHub-blue?logo=github)](https://github.com/AndroidDeals/AndroidDeals.github.io/)      [![](https://img.shields.io/badge/%E6%88%91%E7%9A%84%E7%94%B5%E6%8A%A5%E7%BE%A4-success?logo=telegram)](https://t.me/joinchat/HAPwwxAESAEfq3HGzYo73A)      [![](https://img.shields.io/badge/%E6%88%91%E7%9A%84%E6%B7%98%E5%AE%9D%E5%BA%97%E9%93%BA-AndroidDeals-orange)](https://shop108859308.taobao.com/)
 
 ## 操作步骤
 ### 这里以小米盒子国际版为例，选择界面右上角设置图标，往下找到关于，点进去。
