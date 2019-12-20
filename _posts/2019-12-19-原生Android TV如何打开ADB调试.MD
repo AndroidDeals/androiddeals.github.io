@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "原生Android TV如何打开ADB调试。"
+title:  "原生Android TV如何打开ADB调试"
 date:   2019-12-19 18:52:21 -0500
 
 ---
