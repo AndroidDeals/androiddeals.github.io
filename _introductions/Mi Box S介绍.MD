@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mi Box S介绍"
-
+permalink: /introductions/Mi Box S
 ---
 
 # Mi Box S的配置和功能：
