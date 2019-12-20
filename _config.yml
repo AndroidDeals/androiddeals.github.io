@@ -28,10 +28,10 @@ codepenUsername:
 # Build settings
 markdown: kramdown
 
-themeColor: grey # green, blue, orange, purple, grey
+themeColor: green # green, blue, orange, purple, grey
 fixedNav: true # true or false
 
-permalink: /:year/:month/:title
+permalink: /:title #/:title/:year/:month/
 markdown: kramdown
 include: [_pages]
 exclude: [_site, CHANGELOG.md, LICENSE, README.md]
