@@ -14,6 +14,8 @@
   padding-bottom: 7.5rem;
   padding-right: 2.5rem;
   padding-left: 2.5rem;
+  border-bottom: 1px solid #b1b1b1;
+  background: #f8f8fd;
   @include fs--body;
 
   > * {
