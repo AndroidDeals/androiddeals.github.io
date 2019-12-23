@@ -28,7 +28,7 @@ codepenUsername:
 # Build settings
 markdown: kramdown
 
-themeColor: grey # green, blue, orange, purple, grey
+themeColor: blue # green, blue, orange, purple, grey
 fixedNav: true # true or false
 
 permalink: /:title #/:title/:year/:month/
