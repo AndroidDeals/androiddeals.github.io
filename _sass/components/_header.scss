@@ -3,7 +3,10 @@
    ========================================================================== */
 
 .c-header {
-  padding: 25px; // 75px
+  padding-top: 75px; // 75px
+  padding-bottom: 75px; // 75px
+  padding-right: 25px;
+  padding-left: 25px;
   background: $t-theme;
 }
 
