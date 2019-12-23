@@ -85,7 +85,7 @@ svg {
 a {
   background-color: transparent;
   text-decoration: none;
-  color: #000000;
+  color: $t-theme;
 }
 
 a:active, a:hover { outline: 0; }
