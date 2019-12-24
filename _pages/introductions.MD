@@ -9,6 +9,7 @@ permalink: /introductions/
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |Android 8.1|Amlogic S905X|2G/8G|2.4G+5G双频WIFI|Bluetooth 4.1|4K (3840 x 2160)|DOLBY音效+DTS，内置Chromecast|
 
+<center>
 <table>
 <thead>
 <tr>
@@ -33,3 +34,4 @@ permalink: /introductions/
 </tr>
 </tbody>
 </table>
+</center>
