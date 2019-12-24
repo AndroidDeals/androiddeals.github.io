@@ -18,6 +18,7 @@ permalink: /introductions/
 <th style="text-align:center">网络</th>
 <th style="text-align:center">蓝牙</th>
 <th style="text-align:center">最大输出分辨率</th>
+<th style="text-align:center">特点</th>
 </tr>
 </thead>
 <tbody>
@@ -28,6 +29,7 @@ permalink: /introductions/
 <td style="text-align:center">2.4G+5G双频WIFI</td>
 <td style="text-align:center">Bluetooth 4.1</td>
 <td style="text-align:center">4K (3840 x 2160)</td>
+<td style="text-align:center">DOLBY音效+DTS，内置Chromecast</td>
 </tr>
 </tbody>
 </table>
