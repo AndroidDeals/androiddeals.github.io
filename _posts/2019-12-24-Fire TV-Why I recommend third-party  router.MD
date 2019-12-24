@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Fire TV为何我强烈推荐使用路由器科学上网？"
+title:  "Fire TV-我为何强烈推荐使用路由器科学上网？"
 date:   2019-12-24 13:48:21 -0500
 
 ---
-# Fire TV为何我强烈推荐使用路由器科学上网？
+# Fire TV-我为何强烈推荐使用路由器科学上网？
 [![](https://img.shields.io/badge/我的GitHub-blue?logo=github)](https://github.com/AndroidDeals/AndroidDeals.github.io/)      [![](https://img.shields.io/badge/%E6%88%91%E7%9A%84%E6%B7%98%E5%AE%9D%E5%BA%97%E9%93%BA-AndroidDeals-orange)](https://shop108859308.taobao.com/)
 
   其实很多朋友都很纳闷，为什么火柴棍明明是可以无需科学上网激活的，为什么你还强烈推荐要拥有一个支持科学上网插件的路由器，难不成是想带动消费？实际上并不是这个原因。那是为什么呢？
