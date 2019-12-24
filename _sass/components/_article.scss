@@ -24,7 +24,7 @@
    @include fs--body;
 
   > * {
-    margin-bottom: 1.8rem;
+    margin-bottom: 18rem;
     color: rgba($c__black, .7);
   }
 
@@ -36,7 +36,7 @@
     margin-left: -2.5rem;
     width: calc(100% + 5rem);
     padding: 2.5rem;
-    background: red;
+    background: $c__light-grey;
   }
 
   ul, ol {
