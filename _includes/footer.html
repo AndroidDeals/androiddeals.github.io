@@ -1,6 +1,10 @@
 <footer class="c-footer">
   <div class="u-container c-footer__container">
     <p>&copy; {{ site.title }} {{ site.time | date: '%Y' }}</p>
+    
+    <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+            <span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span>
+    
     <p>
       {% if site.twitterUsername %}<a href="https://twitter.com/{{ site.twitterUsername }}">Twitter</a>{% endif %}
       {% if site.githubUsername %}<a href="https://github.com/{{ site.githubUsername }}">Github</a>{% endif %}
@@ -8,6 +12,5 @@
       {% if site.codepenUsername %}<a href="http://codepen.io/{{ site.codepenUsername }}">CodePen</a>{% endif %}
     </p>
   </div>
-  <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-            <span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span>
+  
 </footer>
