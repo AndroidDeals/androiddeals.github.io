@@ -11,6 +11,8 @@
   max-width: 90rem; // 760px;
   margin-right: auto;
   margin-left: auto;
+  margin-top: 18rem;
+  margin-bottom: 18rem;
   overflow: hidden;
   padding: 25px;
   background: #F8F8FF;
@@ -33,11 +35,10 @@
   }
 
   blockquote {
-    margin-bottom:18rem;
-    margin-left: 25rem;
+    margin-left: -2.5rem;
     width: calc(100% + 5rem);
     padding: 2.5rem;
-    background: $c__light-green;
+    background: $c__light-grey;
   }
 
   ul, ol {
