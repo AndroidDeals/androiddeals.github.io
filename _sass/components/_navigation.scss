@@ -9,8 +9,7 @@
   padding: 0 2.5rem;
   width: 100%;
   background: $t-theme;
-  z-index: 10;
-  font-size: 18px;
+  z-index: 10;  
 
   &:after {
     content: '';
@@ -37,6 +36,7 @@
   @include fs--meta;
   color: $c__white;
   text-transform: uppercase;
+  font-size: 18px; 
 
   &:not(:last-of-type) {
     margin-right: 2.5rem;
