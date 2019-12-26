@@ -12,17 +12,17 @@
 
 .c-header__title {
   position: relative;
-  @include ff--mono(600);
+  @include ff--mono(6000);
   @include fs--title;
   color: $c__white;
 
   &:after {
     margin-left: .5rem;
     color: rgba(#fff, .5);
-    content: '-';
+    content: 'AndroidDeals';
   }
 
   span {
-    color: rgba(#fff, .9);
+    color: rgba(#fff, .5);
   }
 }
