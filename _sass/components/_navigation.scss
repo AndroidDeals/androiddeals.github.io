@@ -30,8 +30,8 @@
 .c-navigation__item {
   position: relative;
   display: inline-block;
-  padding-top: 0rem;
-  padding-bottom: 0rem;
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
   @include ff--mono(500);
   @include fs--meta;
   color: $c__white;
