@@ -7,11 +7,54 @@
 
     {{ content }}
     
-<body style="height: auto;">
-<button id="test" style="position:fixed;right:10px;bottom:40px;">回到顶部</button>
+<style>
+.box{
+    position:fixed;
+    right:10px;
+    bottom: 10px;
+    height:30px;
+    width: 50px;    
+    text-align:center;
+    padding-top:20px;    
+    background-color: lightblue;
+    border-radius: 100%;
+    overflow: hidden;
+}
+.box:hover:before{
+    top:50%
+}
+.box:hover .box-in{
+    visibility: hidden;
+}
+.box:before{
+    position: absolute;
+    top: -50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    content:'回到顶部';
+    width: 40px;
+    color:peru;
+    font-weight:bold;
+
+}    
+.box-in{
+    visibility: visible;
+    display:inline-block;
+    height:20px;
+    width: 20px;
+    border: 3px solid black;
+    border-color: white transparent transparent white;
+    transform:rotate(45deg);
+}
+</style>
+</head>
+<body style="height:auto;">
+<div id="box" class="box">
+    <div class="box-in"></div>
+</div>    
 <script>
 var timer  = null;
-test.onclick = function(){
+box.onclick = function(){
     cancelAnimationFrame(timer);
     //获取当前毫秒数
     var startTime = +new Date();     
@@ -30,8 +73,6 @@ test.onclick = function(){
 }
 </script>
 </body>
-
-
 
     {% include footer.html %}
   </body>
