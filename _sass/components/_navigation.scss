@@ -10,7 +10,7 @@
   width: 100%;
   background: $t-theme;
   z-index: 10;
-  <span style="font-size:18px;">18px</span>
+  font-size: 18px;
 
   &:after {
     content: '';
