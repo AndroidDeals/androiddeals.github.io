@@ -24,8 +24,10 @@ date:   2019-12-27 22:38:21 -0500
 ###  自带的视频管理器能完成一般的预览，还不错。
  ![preview](https://raw.githubusercontent.com/AndroidDeals/AndroidDeals.github.io/master/Screenshots/2019122705.png)
  
-###  Fire TV长安确定键呼出选项
+###  Fire TV长按确定键呼出选项
  ![preview](https://raw.githubusercontent.com/AndroidDeals/AndroidDeals.github.io/master/Screenshots/2019122703.png)
  ![preview](https://raw.githubusercontent.com/AndroidDeals/AndroidDeals.github.io/master/Screenshots/2019122709.png)
 
 大家可以自行下载安装试试，有个要注意的地方，因为Fire TV没有谷歌服务（千万不要自己安装，会变砖），所以谷歌网盘不能用。
+
+
