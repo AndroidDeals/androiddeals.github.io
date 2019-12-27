@@ -11,20 +11,20 @@ date:   2019-12-27 22:38:21 -0500
   中文名字叫文件管理器+，[点击下载](https://github.com/AndroidDeals/AndroidDeals.github.io/releases/download/2019.12.17/filemanager+.apk)，图标如下：
   ![preview](https://raw.githubusercontent.com/AndroidDeals/AndroidDeals.github.io/master/Screenshots/2019122701.png)
   
-##  打开之后发现功能还蛮多的，网盘支持不少但是没有百度云，局域网NAS也能识别。对盒子适配也很好，选择位置不会乱飘，非常的准确，上点图看一下内容。
+###  打开之后发现功能还蛮多的，网盘支持不少但是没有百度云，局域网NAS也能识别。对盒子适配也很好，选择位置不会乱飘，非常的准确，上点图看一下内容。
   ![preview](https://raw.githubusercontent.com/AndroidDeals/AndroidDeals.github.io/master/Screenshots/2019122708.png) 
   ![preview](https://raw.githubusercontent.com/AndroidDeals/AndroidDeals.github.io/master/Screenshots/2019122710.png)
   
-##  NAS也很不错，连上即用。
+###  NAS也很不错，连上即用。
    ![preview](https://raw.githubusercontent.com/AndroidDeals/AndroidDeals.github.io/master/Screenshots/2019122704.png)
    ![preview](https://raw.githubusercontent.com/AndroidDeals/AndroidDeals.github.io/master/Screenshots/2019122707.png)
    ![preview](https://raw.githubusercontent.com/AndroidDeals/AndroidDeals.github.io/master/Screenshots/2019122702.png)
    
    
-##  自带的视频管理器能完成一般的预览，还不错。
+###  自带的视频管理器能完成一般的预览，还不错。
  ![preview](https://raw.githubusercontent.com/AndroidDeals/AndroidDeals.github.io/master/Screenshots/2019122705.png)
  
-##  Fire TV长安确定键呼出选项
+###  Fire TV长安确定键呼出选项
  ![preview](https://raw.githubusercontent.com/AndroidDeals/AndroidDeals.github.io/master/Screenshots/2019122703.png)
  ![preview](https://raw.githubusercontent.com/AndroidDeals/AndroidDeals.github.io/master/Screenshots/2019122709.png)
 
