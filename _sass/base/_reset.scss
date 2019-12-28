@@ -81,15 +81,9 @@ svg {
 
 
 /* Links */
+a:link{background-color: transparent;text-decoration: none;color: green;}
 
-
-a:link{text-decoration: none;color: gray}
-
-a:active{text-decoration:blink}
-
-a:hover{text-decoration:underline;color: red}
-
-a:visited{text-decoration: none;color: yellow}
+a:active, a:hover { outline: 0; }
 
 /* Text Selectors */
 
