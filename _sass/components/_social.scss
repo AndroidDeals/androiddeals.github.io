@@ -1,7 +1,7 @@
 .c-social {
   padding: 7.5rem; // 75px
   background: #ffefd5;
-  color: #3ee050;
+ 
 }
 
 .c-social__list {
@@ -14,5 +14,5 @@
 .c-social__title {
   @include ff--mono(500);
   @include fs--heading-2;
-  color: #696969;
+  color: #75ee44;
 }
