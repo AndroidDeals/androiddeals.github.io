@@ -81,7 +81,12 @@ svg {
 
 
 /* Links */
-a:link{background-color: transparent;text-decoration: none;color: $t-theme;}
+
+a {
+  background-color: transparent;
+  text-decoration: none;
+  color: $t-theme;
+}
 
 a:active, a:hover { outline: 0; }
 
