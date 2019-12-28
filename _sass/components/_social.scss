@@ -1,6 +1,6 @@
 .c-social {
   padding: 7.5rem; // 75px
-  background: #ffefd5;
+  background: #fff;
  
 }
 
@@ -14,5 +14,5 @@
 .c-social__title {
   @include ff--mono(500);
   @include fs--heading-2;
-  color: #75ee44;
+  color: rgba(#000, .5);
 }
