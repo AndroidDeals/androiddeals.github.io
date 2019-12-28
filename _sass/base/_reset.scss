@@ -82,13 +82,14 @@ svg {
 
 /* Links */
 
-a {
-  background-color: transparent;
-  text-decoration: none;
-  color: black;
-}
 
-a:active, a:hover { outline: 0; }
+a:link{text-decoration: none;color: gray}
+
+a:active{text-decoration:blink}
+
+a:hover{text-decoration:underline;color: red}
+
+a:visited{text-decoration: none;color: yellow}
 
 /* Text Selectors */
 
