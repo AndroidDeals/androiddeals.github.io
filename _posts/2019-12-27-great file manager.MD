@@ -5,7 +5,7 @@ date:   2019-12-27 22:38:21 -0500
 
 ---
 # 可能是安卓盒子上最好用的文件管理器
-[![](https://img.shields.io/badge/我的GitHub-blue?logo=github)](https://github.com/AndroidDeals/AndroidDeals.github.io/)             [![](https://img.shields.io/badge/%E6%88%91%E7%9A%84%E6%B7%98%E5%AE%9D%E5%BA%97%E9%93%BA-AndroidDeals-orange)](https://shop108859308.taobao.com/)
+[![](https://img.shields.io/badge/我的GitHub-blue?logo=github)](https://github.com/AndroidDeals/AndroidDeals.github.io/)        [![](https://img.shields.io/badge/%E6%88%91%E7%9A%84%E7%94%B5%E6%8A%A5%E7%BE%A4-success?logo=telegram)](https://t.me/joinchat/HAPwwxAESAEfq3HGzYo73A)      [![](https://img.shields.io/badge/%E6%88%91%E7%9A%84%E6%B7%98%E5%AE%9D%E5%BA%97%E9%93%BA-AndroidDeals-orange)](https://shop108859308.taobao.com/)
 
   ES文件管理器，曾今安卓系统上最好用的文件管理器，现在已经跌落神坛，放在盒子上使用简直是bug重重，按键位置乱跳，所以急需要找到一个目前好用的文件管理器。很幸运的是今天逛谷歌市场的时候找到了，索性就装到了Fire TV上测试一下。
   中文名字叫文件管理器+，看信息是韩国人开发的，[点击下载](https://github.com/AndroidDeals/AndroidDeals.github.io/releases/download/2019.12.17/filemanager+.apk)，图标如下：

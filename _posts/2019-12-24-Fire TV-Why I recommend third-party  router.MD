@@ -5,7 +5,7 @@ date:   2019-12-24 13:48:21 -0500
 
 ---
 # Fire TV-我为何强烈推荐使用路由器科学上网？
-[![](https://img.shields.io/badge/我的GitHub-blue?logo=github)](https://github.com/AndroidDeals/AndroidDeals.github.io/)      [![](https://img.shields.io/badge/%E6%88%91%E7%9A%84%E6%B7%98%E5%AE%9D%E5%BA%97%E9%93%BA-AndroidDeals-orange)](https://shop108859308.taobao.com/)
+[![](https://img.shields.io/badge/我的GitHub-blue?logo=github)](https://github.com/AndroidDeals/AndroidDeals.github.io/)       [![](https://img.shields.io/badge/%E6%88%91%E7%9A%84%E7%94%B5%E6%8A%A5%E7%BE%A4-success?logo=telegram)](https://t.me/joinchat/HAPwwxAESAEfq3HGzYo73A)      [![](https://img.shields.io/badge/%E6%88%91%E7%9A%84%E6%B7%98%E5%AE%9D%E5%BA%97%E9%93%BA-AndroidDeals-orange)](https://shop108859308.taobao.com/)
 
   其实很多朋友都很纳闷，为什么火柴棍明明是可以无需科学上网激活的，为什么你还强烈推荐要拥有一个支持科学上网插件的路由器，难不成是想带动消费？实际上并不是这个原因。那是为什么呢？
   我们知道，正常情况下国内连亚马逊的服务器是没有什么问题的，可以非常顺利的进入系统界面。但是在特殊时期或者是某些特殊的宽带，如果你没有第三方科学上网插件的路由器，你基本上是龟速连接亚马逊的服务器，首次激活升级的时候，你甚至会卡在那里一天，进度条动的比蜗牛还慢。就像这样：![upgrade](https://raw.githubusercontent.com/AndroidDeals/AndroidDeals.github.io/master/Screenshots/upgrade.jpeg) 这时候你就会感受到那种度日如年的痛苦了。
