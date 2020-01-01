@@ -14,6 +14,8 @@ date:   2019-12-17 18:52:21 -0500
 
 * Nplayer[点击下载](https://github.com/AndroidDeals/AndroidDeals.github.io/releases/download/2019.12.17/nplayer1.6.1.6_2265-.apk)，一款非常优秀的本地视频播放器，支持多种解码方式，来自[nplayer](https://nplayer.com/)这个网站。
 
+* Perfect Player[点击下载](https://github.com/AndroidDeals/AndroidDeals.github.io/releases/download/2019.12.17/Perfect-Player.apk)非常好用的电视直播播放器，可以根据自己的需要去添加IPTV信号源。
+
 * 添加新电视机和连接蓝牙设备的视频教程以及`ADB安装第三方应用`的教程请戳[这里](https://drive.google.com/open?id=1rTUeXJX8zQlmNUGqomyMLMwmMuaG9I8M)。
 
 ## ADBLink的使用方法
