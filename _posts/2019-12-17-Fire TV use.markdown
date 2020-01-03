@@ -17,6 +17,25 @@ date:   2019-12-17 18:52:21 -0500
 * Perfect Player[点击下载](https://github.com/AndroidDeals/AndroidDeals.github.io/releases/download/2019.12.17/Perfect-Player.apk)非常好用的电视直播播放器，可以根据自己的需要去添加IPTV信号源。
 
 * 添加新电视机和连接蓝牙设备的视频教程以及`ADB安装第三方应用`的教程请戳[这里](https://drive.google.com/open?id=1rTUeXJX8zQlmNUGqomyMLMwmMuaG9I8M)。
+## 火柴棍神器Downloader安装应用的方法
+这个神器的优点就是全程可以在火柴棍上直接下载应用并安装，适合新手。
+
+1.到亚马逊商店下载这个应用，直接搜索Downloader，来个图标看一下。
+
+![preview](https://raw.githubusercontent.com/AndroidDeals/AndroidDeals.github.io/master/Screenshots/d1.png)
+
+2.打开 fire tv，选择Settings -> My Fire TV -> Developer Option。然后打开 ADB debugging 和 Apps from Unknowing Sources 选项。
+
+3.打开Downloader这个软件，如果你知道想下载软件的直接下载链接，那么直接输入，即可完成下载安装，就像这样：
+![preview](https://raw.githubusercontent.com/AndroidDeals/AndroidDeals.github.io/master/Screenshots/d2.png)
+![preview](https://raw.githubusercontent.com/AndroidDeals/AndroidDeals.github.io/master/Screenshots/d4.png)
+![preview](https://raw.githubusercontent.com/AndroidDeals/AndroidDeals.github.io/master/Screenshots/d5.png)
+
+4.如果你并不知道软件的直接下载地址，那么就使用Downloader内置的浏览器进行下载安装。比如说我们想下载当贝市场，那么我们通过浏览器到当贝市场的主页，找到下载应用的选项卡，点击之后，自动下载应用，进行安装。大功告成！
+![preview](https://raw.githubusercontent.com/AndroidDeals/AndroidDeals.github.io/master/Screenshots/d3.png)
+![preview](https://raw.githubusercontent.com/AndroidDeals/AndroidDeals.github.io/master/Screenshots/d4.png)
+![preview](https://raw.githubusercontent.com/AndroidDeals/AndroidDeals.github.io/master/Screenshots/d5.png)
+
 
 ## ADBLink的使用方法
 
