@@ -42,8 +42,8 @@ date:   2019-12-17 18:52:21 -0500
 ## ADBLink的使用方法
 
 * ADBlink来自[jocala](http://www.jocala.com/)这个网站。
-  * MacOS版[点击下载](https://github.com/AndroidDeals/AndroidDeals.github.io/releases/download/2019.12.17/adblm42-Macos.dmg)
-  * Windows版[点击下载](https://github.com/AndroidDeals/AndroidDeals.github.io/releases/download/2019.12.17/adblw42.exe)
+  * MacOS版[点击下载](https://github.com/AndroidDeals/AndroidDeals.github.io/releases/download/2019.12.17/adblink42-Macos.dmg)
+  * Windows版[点击下载](https://github.com/AndroidDeals/AndroidDeals.github.io/releases/download/2019.12.17/adblink42-Win.exe)
 
 1.首先保证电脑和火柴棍连接同一个网络，打开 fire tv，选择Settings -> My Fire TV -> Developer Option。然后打开 ADB debugging 和 Apps from Unknowing Sources 选项。
 
