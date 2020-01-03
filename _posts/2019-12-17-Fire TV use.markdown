@@ -24,7 +24,7 @@ date:   2019-12-17 18:52:21 -0500
 
 ![preview](https://raw.githubusercontent.com/AndroidDeals/AndroidDeals.github.io/master/Screenshots/d1.png)
 
-2.打开 fire tv，选择Settings -> My Fire TV -> Developer Option。然后打开 ADB debugging 和 Apps from Unknowing Sources 选项。
+2.打开 fire tv，选择Settings -> My Fire TV -> Developer Option。然后打开 Apps from Unknowing Sources 选项。
 
 3.打开Downloader这个软件，如果你知道想下载软件的直接下载链接，那么直接输入，即可完成下载安装，就像这样：
 ![preview](https://raw.githubusercontent.com/AndroidDeals/AndroidDeals.github.io/master/Screenshots/d2.png)
