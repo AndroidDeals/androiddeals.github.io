@@ -31,18 +31,11 @@ markdown: kramdown
 themeColor: blue # green, blue, orange, purple, grey
 fixedNav: true # true or false
 
-permalink: /:title #/:title/:year/:month/
+permalink: /:categories/:title/  #/:title/:year/:month/
 markdown: kramdown
 include: [_pages]
 exclude: [_site, CHANGELOG.md, LICENSE, README.md]
 sass:
   style: compressed
-  
-permalink: /:categories/:title/  
-# List of links in the navigation bar
-navbar-links:
-  主页: "https://androiddeals.github.io"
-  分类: "https://androiddeals.github.io/categories/"
-  教程: "https://androiddeals.github.io/articles/"
-  关于: "aboutme"
-  搜索: "search"
+
+
