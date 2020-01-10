@@ -31,7 +31,7 @@ markdown: kramdown
 themeColor: blue # green, blue, orange, purple, grey
 fixedNav: true # true or false
 
-permalink: /:categories/:title/  #/:title/:year/:month/
+permalink: /:title/  #/:title/:year/:month/
 markdown: kramdown
 include: [_pages]
 exclude: [_site, CHANGELOG.md, LICENSE, README.md]
