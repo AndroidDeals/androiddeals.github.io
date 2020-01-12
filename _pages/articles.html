@@ -5,7 +5,7 @@ permalink: /articles/
 ---
 {% for post in site.posts %}
     {% if post.stickie = true %}
-        {* continue *}
+        {% continue %}
     {% endif %}
     <div>置顶文章细节</div>
 {% endfor %}
