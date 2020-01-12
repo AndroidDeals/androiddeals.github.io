@@ -3,6 +3,34 @@ layout: page
 title: 玩机经验
 permalink: /articles/
 ---
+
+<!-- 置顶博客显示部分 -->
+{% for post in site.posts %} 
+	{% if post.top == true %}
+<ul>
+	<li class="wow fadeInLeft" data-wow-duration="1.5s">
+    	<a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+        <p>{{ post.excerpt }}</p>
+        <a href="{{ site.url }}{{ post.url }}" class="btn zoombtn">Read More</a>
+    </li>
+</ul>
+	{% endif %}
+{% endfor %}
+<!-- 其他博客显示部分 -->
+{% for post in site.posts %} 
+	{% if post.project == null %}
+		{% if post.top == null %}
+<ul>
+	<li class="wow fadeInLeft" data-wow-duration="1.5s">
+		<a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+		<p>{{ post.excerpt }}</p>
+		<a href="{{ site.url }}{{ post.url }}" class="btn zoombtn">Read More</a>
+	</li>
+</ul>
+		{% endif %}
+	{% endif %}
+{% endfor %}
+
 {% for post in site.posts  %}
     {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
     {% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
