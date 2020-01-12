@@ -6,7 +6,7 @@ categories: 亚马逊火柴棍
 top: true 
 
 ---
-# 亚马逊Fire TV Stick/火柴棍入门指南。
+# Fire TV上非常好用的第三方软件
 
 
 * Smart Youtube TV[点击下载](https://github.com/yuliskov/SmartYouTubeTV/releases/download/stable/smartyoutubetv_latest.apk)大名鼎鼎的第三方YouTube应用，可看4K，没有广告，来自[yuliskov](https://github.com/yuliskov/SmartYouTubeTV)。
@@ -18,9 +18,15 @@ top: true
 * Perfect Player[点击下载](https://github.com/AndroidDeals/AndroidDeals.github.io/releases/download/2019.12.17/Perfect-Player.apk)非常好用的电视直播播放器，可以根据自己的需要去添加IPTV信号源。
 
 * 添加新电视机和连接蓝牙设备的视频教程以及`ADB安装第三方应用`的教程请戳[这里](https://drive.google.com/open?id=1rTUeXJX8zQlmNUGqomyMLMwmMuaG9I8M)。
+***
+# Fire TV安装第三方软件常用的几种方法
+方法分为三种，方式如下
+1. [手机端（安卓系统）-通过easyfiretools或者apps2fire等软件推送安装。](#jump1)
+2. 机顶盒端-通过商店自带的Downloader上下载应用安装。
+3. PC端-通过ADB命令安装。
 
 
-## 火柴棍神器Downloader
+## <span id="jump1">Fire TV神器Downloader（机顶盒上直接操作）</span>
 这个神器的优点就是全程可以在火柴棍上直接下载应用并安装，适合新手。
 
 1.到亚马逊商店下载这个应用，直接搜索Downloader，来个图标看一下。
