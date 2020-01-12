@@ -25,6 +25,16 @@ top: true
 2. [机顶盒端-通过商店自带的Downloader上下载应用安装。](#jump2)
 3. [PC端-通过ADB命令安装。](#jump3)
 
+## <span id="jump1">安卓手机端推送应用安装</span>
+1. 首先保证电脑和火柴棍连接同一个网络，打开 fire tv，选择Settings -> My Fire TV -> Developer Option。然后打开 ADB debugging 和 Apps from Unknowing Sources 选项。
+2. 安卓手机端安装应用Easy Fir Tools[点击下载](https://github.com/AndroidDeals/AndroidDeals.github.io/releases/download/2019.12.17/Easy.Fire.Tools.apk)
+3. 打开Easy Fire Tools，点击右上角符号，查找局域网内的火柴棍，如图中标示![eft](https://raw.githubusercontent.com/AndroidDeals/AndroidDeals.github.io/master/Screenshots/eft1.png)
+4. 选择火柴棍，选择之后再点击对接logo，如图中标示![eft](https://raw.githubusercontent.com/AndroidDeals/AndroidDeals.github.io/master/Screenshots/eft2.png)![eft](https://raw.githubusercontent.com/AndroidDeals/AndroidDeals.github.io/master/Screenshots/eft3.png)
+5. 电视机上会显示新设备认证，选择allow。![preview](https://raw.githubusercontent.com/AndroidDeals/AndroidDeals.github.io/master/Screenshots/6.jpg)
+允许之后，右上角对接logo变绿并且连接成功。如图所示![eft](https://raw.githubusercontent.com/AndroidDeals/AndroidDeals.github.io/master/Screenshots/eft4.png)
+6. 选择
+
+
 
 ## <span id="jump2">Fire TV神器Downloader（机顶盒上直接操作）</span>
 这个神器的优点就是全程可以在火柴棍上直接下载应用并安装，适合新手。
