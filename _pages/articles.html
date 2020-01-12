@@ -12,8 +12,7 @@ permalink: /articles/
 	{% if post.top == true %}
 <ul>
 	<li class="wow fadeInLeft" data-wow-duration="1.5s">
-    	<a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
-	<p>{{ post.date | date: "%b %-d, %Y" }}</p>	
+    	<a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a><p>{{ post.date | date: "%b %-d, %Y" }}</p>	
     </li>
 </ul>
 	{% endif %}
@@ -28,8 +27,7 @@ permalink: /articles/
 		{% if post.top == null %}
 <ul>
 	<li class="wow fadeInLeft" data-wow-duration="1.5s">
-		<a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>	
-		<p>{{ post.date | date: "%b %-d, %Y" }}</p>
+		<a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a><p>{{ post.date | date: "%b %-d, %Y" }}</p>
 	</li>
 </ul>
 		{% endif %}
