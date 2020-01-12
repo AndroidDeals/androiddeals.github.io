@@ -19,6 +19,7 @@ top: true
 
 * 添加新电视机和连接蓝牙设备的视频教程以及`ADB安装第三方应用`的教程请戳[这里](https://drive.google.com/open?id=1rTUeXJX8zQlmNUGqomyMLMwmMuaG9I8M)。
 ***
+
 # Fire TV安装第三方软件常用的几种方法
 方法分为三种，方式如下
 1. [手机端（安卓系统）-通过easyfiretools或者apps2fire等软件推送安装。](#jump1)
@@ -27,12 +28,13 @@ top: true
 
 ## <span id="jump1">安卓手机端推送应用安装</span>
 1. 首先保证电脑和火柴棍连接同一个网络，打开 fire tv，选择Settings -> My Fire TV -> Developer Option。然后打开 ADB debugging 和 Apps from Unknowing Sources 选项。
-2. 安卓手机端安装应用Easy Fir Tools[点击下载](https://github.com/AndroidDeals/AndroidDeals.github.io/releases/download/2019.12.17/Easy.Fire.Tools.apk)
+2. 安卓手机端安装应用Easy Fire Tools[点击下载](https://github.com/AndroidDeals/AndroidDeals.github.io/releases/download/2019.12.17/Easy.Fire.Tools.apk)
 3. 打开Easy Fire Tools，点击右上角符号，查找局域网内的火柴棍，如图中标示![eft](https://raw.githubusercontent.com/AndroidDeals/AndroidDeals.github.io/master/Screenshots/eft1.png)
 4. 选择火柴棍，选择之后再点击对接logo，如图中标示![eft](https://raw.githubusercontent.com/AndroidDeals/AndroidDeals.github.io/master/Screenshots/eft2.png)![eft](https://raw.githubusercontent.com/AndroidDeals/AndroidDeals.github.io/master/Screenshots/eft3.png)
 5. 电视机上会显示新设备认证，选择allow。![preview](https://raw.githubusercontent.com/AndroidDeals/AndroidDeals.github.io/master/Screenshots/6.jpg)
 允许之后，右上角对接logo变绿并且连接成功。如图所示![eft](https://raw.githubusercontent.com/AndroidDeals/AndroidDeals.github.io/master/Screenshots/eft4.png)
-6. 选择
+6. 选择自己想要安装的应用安装即可![eft](https://raw.githubusercontent.com/AndroidDeals/AndroidDeals.github.io/master/Screenshots/eft5.png)
+这个应用的功能很强大，大家自行发掘。
 
 
 
@@ -54,6 +56,7 @@ top: true
 ![preview](https://raw.githubusercontent.com/AndroidDeals/AndroidDeals.github.io/master/Screenshots/d3.png)
 ![preview](https://raw.githubusercontent.com/AndroidDeals/AndroidDeals.github.io/master/Screenshots/d4.png)
 ![preview](https://raw.githubusercontent.com/AndroidDeals/AndroidDeals.github.io/master/Screenshots/d5.png)
+
 
 
 ## <span id="jump3">ADBLink的使用方法</span>
