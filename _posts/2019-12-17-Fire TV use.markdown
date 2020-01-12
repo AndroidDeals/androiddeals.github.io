@@ -18,7 +18,8 @@ top: true
 * Perfect Player[点击下载](https://github.com/AndroidDeals/AndroidDeals.github.io/releases/download/2019.12.17/Perfect-Player.apk)非常好用的电视直播播放器，可以根据自己的需要去添加IPTV信号源。
 
 * 添加新电视机和连接蓝牙设备的视频教程以及`ADB安装第三方应用`的教程请戳[这里](https://drive.google.com/open?id=1rTUeXJX8zQlmNUGqomyMLMwmMuaG9I8M)。
-***
+
+<HR>
 
 # Fire TV安装第三方软件常用的几种方法
 方法分为三种，方式如下
@@ -29,11 +30,16 @@ top: true
 ## <span id="jump1">安卓手机端推送应用安装</span>
 1. 首先保证电脑和火柴棍连接同一个网络，打开 fire tv，选择Settings -> My Fire TV -> Developer Option。然后打开 ADB debugging 和 Apps from Unknowing Sources 选项。
 2. 安卓手机端安装应用Easy Fire Tools[点击下载](https://github.com/AndroidDeals/AndroidDeals.github.io/releases/download/2019.12.17/Easy.Fire.Tools.apk)
-3. 打开Easy Fire Tools，点击右上角符号，查找局域网内的火柴棍，如图中标示![eft](https://raw.githubusercontent.com/AndroidDeals/AndroidDeals.github.io/master/Screenshots/eft1.png)
-4. 选择火柴棍，选择之后再点击对接logo，如图中标示![eft](https://raw.githubusercontent.com/AndroidDeals/AndroidDeals.github.io/master/Screenshots/eft2.png)![eft](https://raw.githubusercontent.com/AndroidDeals/AndroidDeals.github.io/master/Screenshots/eft3.png)
-5. 电视机上会显示新设备认证，选择allow。![preview](https://raw.githubusercontent.com/AndroidDeals/AndroidDeals.github.io/master/Screenshots/6.jpg)
-允许之后，右上角对接logo变绿并且连接成功。如图所示![eft](https://raw.githubusercontent.com/AndroidDeals/AndroidDeals.github.io/master/Screenshots/eft4.png)
-6. 选择自己想要安装的应用安装即可![eft](https://raw.githubusercontent.com/AndroidDeals/AndroidDeals.github.io/master/Screenshots/eft5.png)
+3. 打开Easy Fire Tools，点击右上角符号，查找局域网内的火柴棍，
+### 如图所示：![eft](https://raw.githubusercontent.com/AndroidDeals/AndroidDeals.github.io/master/Screenshots/eft1.png)
+4. 选择火柴棍，选择之后再点击对接logo
+### 如图所示：![eft](https://raw.githubusercontent.com/AndroidDeals/AndroidDeals.github.io/master/Screenshots/eft2.png)![eft](https://raw.githubusercontent.com/AndroidDeals/AndroidDeals.github.io/master/Screenshots/eft3.png)
+5. 电视机上会显示新设备认证，选择allow。
+### 如图所示：![preview](https://raw.githubusercontent.com/AndroidDeals/AndroidDeals.github.io/master/Screenshots/6.jpg)
+允许之后，右上角对接logo变绿并且连接成功。
+### 如图所示：![eft](https://raw.githubusercontent.com/AndroidDeals/AndroidDeals.github.io/master/Screenshots/eft4.png)
+6. 选择自己想要安装的应用安装即可
+### 如图所示：![eft](https://raw.githubusercontent.com/AndroidDeals/AndroidDeals.github.io/master/Screenshots/eft5.png)
 这个应用的功能很强大，大家自行发掘。
 
 
@@ -41,18 +47,20 @@ top: true
 ## <span id="jump2">Fire TV神器Downloader（机顶盒上直接操作）</span>
 这个神器的优点就是全程可以在火柴棍上直接下载应用并安装，适合新手。
 
-1.到亚马逊商店下载这个应用，直接搜索Downloader，来个图标看一下。
-
+1.到亚马逊商店下载这个应用，直接搜索Downloader
+### 来个图标看一下。
 ![preview](https://raw.githubusercontent.com/AndroidDeals/AndroidDeals.github.io/master/Screenshots/d1.png)
 
 2.打开 fire tv，选择Settings -> My Fire TV -> Developer Option。然后打开 Apps from Unknowing Sources 选项。
 
-3.打开Downloader这个软件，如果你知道想下载软件的直接下载链接，那么直接输入，即可完成下载安装，就像这样：
+3.打开Downloader这个软件，如果你知道想下载软件的直接下载链接，那么直接输入，即可完成下载安装
+### 就像这样：
 ![preview](https://raw.githubusercontent.com/AndroidDeals/AndroidDeals.github.io/master/Screenshots/d2.png)
 ![preview](https://raw.githubusercontent.com/AndroidDeals/AndroidDeals.github.io/master/Screenshots/d4.png)
 ![preview](https://raw.githubusercontent.com/AndroidDeals/AndroidDeals.github.io/master/Screenshots/d5.png)
 
 4.如果你并不知道软件的直接下载地址，那么就使用Downloader内置的浏览器进行下载安装。比如说我们想下载当贝市场，那么我们通过浏览器到当贝市场的主页，找到下载应用的选项卡，点击之后，自动下载应用，进行安装。大功告成！
+### 如图所示：
 ![preview](https://raw.githubusercontent.com/AndroidDeals/AndroidDeals.github.io/master/Screenshots/d3.png)
 ![preview](https://raw.githubusercontent.com/AndroidDeals/AndroidDeals.github.io/master/Screenshots/d4.png)
 ![preview](https://raw.githubusercontent.com/AndroidDeals/AndroidDeals.github.io/master/Screenshots/d5.png)
