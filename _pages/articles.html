@@ -3,19 +3,19 @@ layout: page
 title: 玩机经验
 permalink: /articles/
 ---
-{* for post in site.posts *}
-    {* if post.stickie != true *}
+{% for post in site.posts %}
+    {% if post.stickie = true %}
         {* continue *}
-    {* endif *}
+    {% endif %}
     <div>置顶文章细节</div>
-{* endfor *}
+{% endfor %}
 
-{* for post in site.posts *}
-    {* if post.stickie == true *}
-        {* continue *}
-    {* endif *}
+{% for post in site.posts %}
+    {% if post.stickie == true %}
+        {% continue %}
+    {% endif %}
     <div>普通文章细节</div>
-{* endfor *}
+{% endfor %}
 
 
 {% for post in site.posts  %}
