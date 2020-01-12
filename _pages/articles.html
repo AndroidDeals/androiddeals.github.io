@@ -7,12 +7,13 @@ permalink: /articles/
 <!-- 置顶博客显示部分 -->
 
 <p><font size="6" color="#FF8C00">必备敲门砖</font></p>
-{{ page.date | date: "%-d %B %Y" }}
+
 {% for post in site.posts %} 
 	{% if post.top == true %}
 <ul>
 	<li class="wow fadeInLeft" data-wow-duration="1.5s">
     	<a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+	<p>{{ post.date | date: "%b %-d, %Y" }}</p>	
     </li>
 </ul>
 	{% endif %}
@@ -27,7 +28,8 @@ permalink: /articles/
 		{% if post.top == null %}
 <ul>
 	<li class="wow fadeInLeft" data-wow-duration="1.5s">
-		<a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>		
+		<a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>	
+		<p>{{ post.date | date: "%b %-d, %Y" }}</p>
 	</li>
 </ul>
 		{% endif %}
