@@ -116,7 +116,6 @@ hr {
 
 pre,
 code {
-  @include relative-font-size(1);
   //border: 1px solid $grey-color-light;
   border-radius: 3px;
   background-color: #F6F8FA;
