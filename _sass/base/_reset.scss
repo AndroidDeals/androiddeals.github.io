@@ -114,15 +114,12 @@ hr {
 
 /* Code Blocks */
 
-pre { 
-overflow: auto; 
-height: 20px;
-
-}
+pre { overflow: auto; }
 
 code, pre {
-
-background  : dark-orange;
-
+display : block
+background  : orange;
+height: 20px;
+border: 1px;
 }
 
