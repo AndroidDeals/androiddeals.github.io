@@ -14,10 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: AndroidDeals
-email: chuangwei324@gmail.com
+email: 
 description: 为了写一点简短的教程。
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://androiddeals.github.io/" # the base hostname & protocol for your site
+url: "https://androiddeals.github.io" # the base hostname & protocol for your site
 
 # Social
 githubUsername: 
