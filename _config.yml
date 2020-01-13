@@ -28,13 +28,13 @@ codepenUsername:
 # highlight settings
 
 # Build settings
-markdown: kmarkdown
+markdown: kramdown
 
 themeColor: blue # green, blue, orange, purple, grey
 fixedNav: true # true or false
 
 permalink: /:title/  #/:title/:year/:month/
-markdown: kmarkdown
+markdown: kramdown
 include: [_pages]
 exclude: [_site, CHANGELOG.md, LICENSE, README.md]
 sass:
