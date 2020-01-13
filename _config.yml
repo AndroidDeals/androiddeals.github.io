@@ -26,16 +26,15 @@ dribbbleUsername:
 codepenUsername:
 
 # highlight settings
-highlighter: pygments
 
 # Build settings
-markdown: rdiscount
+markdown: kmarkdown
 
 themeColor: blue # green, blue, orange, purple, grey
 fixedNav: true # true or false
 
 permalink: /:title/  #/:title/:year/:month/
-markdown: rdiscount
+markdown: kmarkdown
 include: [_pages]
 exclude: [_site, CHANGELOG.md, LICENSE, README.md]
 sass:
