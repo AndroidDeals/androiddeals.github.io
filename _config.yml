@@ -29,13 +29,13 @@ codepenUsername:
 highlighter: pygments
 
 # Build settings
-markdown: kramdown
+markdown: rdiscount
 
 themeColor: blue # green, blue, orange, purple, grey
 fixedNav: true # true or false
 
 permalink: /:title/  #/:title/:year/:month/
-markdown: kramdown
+markdown: rdiscount
 include: [_pages]
 exclude: [_site, CHANGELOG.md, LICENSE, README.md]
 sass:
