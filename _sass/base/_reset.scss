@@ -114,13 +114,33 @@ hr {
 
 /* Code Blocks */
 
-pre { 
-overflow: auto; 
-border: 1px;
-display: block
+pre,
+code {
+  @include relative-font-size(1);
+  //border: 1px solid $grey-color-light;
+  border-radius: 3px;
+  background-color: #F6F8FA;
+  font-family: menlo,monaco,consolas,DejaVu Sans Mono,monospace,Microsoft Yahei !important;
+  border-width: 0.1rem;
+  border-style: solid;
+  border-image: initial;
+  border-color: lightgrey;
 }
 
-code, pre {
-background  : orange;
+code {
+  padding: 1px 5px;
+  //background-color: #eef;
 }
 
+pre {
+  padding: 8px 12px;
+  overflow-x: auto;
+  //background-color: #272822;
+
+  > code {
+    border: 0;
+    padding-right: 0;
+    padding-left: 0;
+    //background-color: #eef;
+  }
+}
