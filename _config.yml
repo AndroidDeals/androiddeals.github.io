@@ -25,6 +25,9 @@ twitterUsername:
 dribbbleUsername:
 codepenUsername:
 
+# highlight settings
+highlighter: pygments
+
 # Build settings
 markdown: kramdown
 
