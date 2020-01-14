@@ -17,8 +17,9 @@
 html {
   min-height: 100%;
   box-sizing: border-box;
-  -webkit-tap-highlight-color: #87cefa;
-  font-size: 62.5%; // Make it easy to calculate rems to px
+  -webkit-tap-highlight-color: rgba(135,206,250,0.6);
+  -webkit-tap-display: inline-block;
+font-size: 62.5%; // Make it easy to calculate rems to px
 }
 
 body {
