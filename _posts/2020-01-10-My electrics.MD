@@ -17,12 +17,3 @@ categories: 电子杂谈
   * 斐讯N1，神器，能当电视盒子、路由器、下载机。总之很牛了。拼多多100块钱入的，实在是超值。
   * 斐讯H1，200块钱购于拼多多，很好的硬盘，下点电影存里面，没事的时候，火柴棍打开播放里面的影片没有问题，安静无噪音，颜值颇高。
   
-  ```latest table
-  border-radius: 3px;
-  background-color: rgba(255,140,0,0.2);
-  font-family: menlo,monaco,consolas,DejaVu Sans Mono,monospace,Microsoft Yahei !important,sans-serif,Hanzipen SC;
-  border-width: 0.1rem;
-  border-style: solid;
-  border-image: initial;
-  border-color: lightgrey;
-  ```
