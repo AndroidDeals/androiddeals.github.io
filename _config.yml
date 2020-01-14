@@ -41,7 +41,8 @@ sass:
   style: compressed
 
 valine_comment:
-    enable: true
+    enable: true 
+    notify: true 
     leancloud_appid: HObYg6DWL9XooalILHc3rcL1-gzGzoHsz
     leancloud_appkey: XKbkS4IyRihR3kyinygkHNcT
     placeholder: "说点什么"
