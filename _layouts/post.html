@@ -12,18 +12,23 @@ layout: page
 
 
 <head>
-    ..
+
     <script src='//unpkg.com/valine/dist/Valine.min.js'></script>
-    ...
+
 </head>
 <body>
-    ...
+
     <div id="vcomments"></div>
     <script>
         new Valine({
             el: '#vcomments',
             appId: 'HObYg6DWL9XooalILHc3rcL1-gzGzoHsz',
             appKey: 'XKbkS4IyRihR3kyinygkHNcT'
+            notify: true 
+            guest_info: nick,mail,link
+            avatar: 'mp'
+            placeholder: '说点什么'
+            visitor: true
         })
     </script>
 </body>
