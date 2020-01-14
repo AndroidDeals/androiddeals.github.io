@@ -40,4 +40,16 @@ exclude: [_site, CHANGELOG.md, LICENSE, README.md]
 sass:
   style: compressed
 
-
+# Valine评论系统开关
+# Valine.
+# You can get your appid and appkey from https://leancloud.app
+# more info please open https://valine.js.org
+valine:
+  enable: true
+  appid:  HObYg6DWL9XooalILHc3rcL1-gzGzoHsz # your leancloud app id
+  appkey: XKbkS4IyRihR3kyinygkHNcT # your leancloud app key
+  notify: true # mail notifier , https://github.com/xCss/Valine/wiki
+  avatar: 'mp' # gravatar style
+  guest_info: 昵称,邮件,网址 # custom comment header
+  pageSize: 10 # pagination size
+  # path: window.location.pathname
