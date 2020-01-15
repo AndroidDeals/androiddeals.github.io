@@ -48,6 +48,6 @@ valine_comment:
     placeholder: "说点什么"
     notify: true
     guest_info: nick,mail,link
-    avatar: ''
+    avatar:''
 
 
