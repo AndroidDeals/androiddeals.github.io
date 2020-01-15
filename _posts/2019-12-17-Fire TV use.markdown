@@ -77,7 +77,7 @@ top: true
 
 
 
-## <span id="jump3">ADBLink的使用方法</span>
+## <span id="jump3">PC端安装工具-ADBLink的使用方法</span>
 
 * ADBlink来自[jocala](http://www.jocala.com/)这个网站。
   * MacOS版[点击下载](https://github.com/AndroidDeals/AndroidDeals.github.io/releases/download/2019.12.17/adblink42-Macos.dmg)
