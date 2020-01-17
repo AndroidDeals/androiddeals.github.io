@@ -1,13 +1,20 @@
 ---
 layout: post
-title:  "亚马逊Fire TV Stick/火柴棍入门指南"
+title:  "亚马逊Fire TV Stick教程/火柴棍入门指南"
 date:   2019-12-17 18:52:21 -0500
 categories: 亚马逊火柴棍
 top: true 
 
 ---
-# Fire TV上非常好用的第三方软件
+# 它的使用步骤是什么？
+Fire TV本质上就是电视盒子，只不过没有国产盒子那么多的广告植入。
+1. 首次开机激活，连上无线网络，登录Amazon(支持`美国，日本，英国，加拿大，印度`)账号
+2. 激活之后，进入主界面。打开你想看的应用，登录其账号开始观看。
 
+<HR>
+ 
+# 某些应用在Amazon自带的应用市场并不能下载到，怎么办？请看下面的内容。
+## Fire TV上非常好用的第三方软件
 
 * Smart Youtube TV[点击下载](https://github.com/yuliskov/SmartYouTubeTV/releases/download/stable/smartyoutubetv_latest.apk)大名鼎鼎的第三方YouTube应用，可看4K，没有广告，来自[yuliskov](https://github.com/yuliskov/SmartYouTubeTV)。
 
@@ -21,7 +28,7 @@ top: true
 
 <HR>
  
-# 为什么你的Fire TV账号不能下载应用？
+## 为什么你的Fire TV账号不能下载应用？
 一个完全可用的账号需要具备以下几个要素（仅以`美国`账号为例）：
 1. 账号的国家`必须是美国的`
 2. 必须设置一个`美国`的`默认收货地址`
@@ -31,7 +38,7 @@ top: true
 
 <HR>
  
-# Fire TV安装第三方软件常用的几种方法
+## Fire TV安装第三方软件常用的几种方法
 方法分为三种，方式如下
 1. [手机端（安卓系统）-通过easyfiretools或者apps2fire等软件推送安装。](#jump1)
 2. [机顶盒端-通过商店自带的Downloader上下载应用安装。](#jump2)
