@@ -39,11 +39,26 @@ Mi Box S本质上就是电视盒子，只不过没有国产盒子那么多的广
 
 方法提供两种，方式如下
 1. [通过U盘安装。](#jump1)
-2. [PC端-通过ADB命令安装。](#jump2)
+2. [盒子端神器Downloader](#jump2)
+3. [PC端-通过ADB命令安装。](#jump3)
 
 ## <span id="jump1">U盘安装</span>
 1. 把想安装的Apk应用下载好放进U盘，谷歌市场下载一个文件管理器。
 2. 将U盘插入小米盒子，打开文件管理器，找到下载的应用安装即可
+
+## <span id="jump2">Downloader使用方法</span>
+1. 谷歌商店搜索Downloader by TROYPOINT，然后安装。
+
+2. 打开Downloader这个软件，如果你知道想下载软件的直接下载链接，那么直接输入，即可完成下载安装
+![preview](https://raw.githubusercontent.com/AndroidDeals/AndroidDeals.github.io/master/Screenshots/d2.png)
+![preview](https://raw.githubusercontent.com/AndroidDeals/AndroidDeals.github.io/master/Screenshots/d4.png)
+![preview](https://raw.githubusercontent.com/AndroidDeals/AndroidDeals.github.io/master/Screenshots/d5.png)
+
+3. 如果你并不知道软件的直接下载地址，那么就使用Downloader内置的浏览器进行下载安装。比如说我们想下载当贝市场，那么我们通过浏览器到当贝市场的主页，找到下载应用的选项卡，点击之后，自动下载应用，进行安装。大功告成！
+![preview](https://raw.githubusercontent.com/AndroidDeals/AndroidDeals.github.io/master/Screenshots/d3.png)
+![preview](https://raw.githubusercontent.com/AndroidDeals/AndroidDeals.github.io/master/Screenshots/d4.png)
+![preview](https://raw.githubusercontent.com/AndroidDeals/AndroidDeals.github.io/master/Screenshots/d5.png)
+	
 
 
 ## <span id="jump2">PC端安装工具-ADBLink的使用方法</span>
