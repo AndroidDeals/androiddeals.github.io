@@ -8,8 +8,10 @@ top: true
 ---
 # 它的使用步骤是什么？
 Mi Box S本质上就是电视盒子，只不过没有国产盒子那么多的广告植入。
-1. 首次开机激活，连上可以科学上网的路由器，登录谷歌账号激活设备。
+1. 首次开机激活，连上可以科学上网(例如`openwrt、梅林、官改`)固件的路由器，登录谷歌账号激活设备。
 2. 激活之后，进入主界面。打开你想看的应用，登录其账号开始观看。
+![preview](https://raw.githubusercontent.com/AndroidDeals/AndroidDeals.github.io/master/Screenshots/mihome.png)
+
 
 <HR>
  
@@ -33,6 +35,7 @@ Mi Box S本质上就是电视盒子，只不过没有国产盒子那么多的广
  
 ## Android TV安装第三方软件常用的几种方法
 注意一点，必须先从谷歌市场下载一款名叫`Sideload Launcher`的应用。因为国内的很多应用不遵守leanback框架，所以在Android TV主页不会显示出来，而这个应用可以把所有已经安装的应用都显示出来。
+![preview](https://raw.githubusercontent.com/AndroidDeals/AndroidDeals.github.io/master/Screenshots/sideloadlauncher.png)
 
 方法提供两种，方式如下
 1. [通过U盘安装。](#jump1)
