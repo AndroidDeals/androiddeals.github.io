@@ -34,7 +34,7 @@ Mi Box S本质上就是电视盒子，只不过没有国产盒子那么多的广
 <HR>
  
 ## Android TV安装第三方软件常用的几种方法
-注意一点，必须先从谷歌市场下载一款名叫`Sideload Launcher`的应用。因为国内的很多应用不遵守leanback框架，所以在Android TV主页不会显示出来，而这个应用可以把所有已经安装的应用都显示出来。
+注意一点，必须先从谷歌市场下载一款名叫`Sideload Launcher`的应用。因为国内的很多应用不遵守leanback框架，所以在Android TV主页不会显示出来，而这个应用可以把所有已经安装的应用都显示出来，界面如下。
 ![preview](https://raw.githubusercontent.com/AndroidDeals/AndroidDeals.github.io/master/Screenshots/sideloadlauncher.png)
 
 方法提供两种，方式如下
