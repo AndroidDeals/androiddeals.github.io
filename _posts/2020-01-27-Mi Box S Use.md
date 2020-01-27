@@ -20,9 +20,13 @@ Mi Box S本质上就是电视盒子，只不过没有国产盒子那么多的广
 
 * SSRR[点击下载](https://github.com/AndroidDeals/AndroidDeals.github.io/releases/download/2019.12.17/SSRR-3.5.4.apk)，最广泛使用的科学上网工具，来自[Akkariiin](https://github.com/shadowsocksrr/shadowsocksr-android/releases)。
 
+* FireFox浏览器[点击下载](https://github.com/AndroidDeals/AndroidDeals.github.io/releases/download/2019.12.17/firefox_4.6.apk)谷歌商店没什么好用的网页浏览器，可以安装这个用一用。
+
 * Nplayer[点击下载](https://github.com/AndroidDeals/AndroidDeals.github.io/releases/download/2019.12.17/nPlayer.v1.7.7.7_191219.armeabi-v7a.apk)，一款非常优秀的本地视频播放器，支持多种解码方式，来自[nplayer](https://nplayer.com/)这个网站。
 
 * Perfect Player[点击下载](https://github.com/AndroidDeals/AndroidDeals.github.io/releases/download/2019.12.17/Perfect-Player.apk)非常好用的电视直播播放器，可以根据自己的需要去添加IPTV信号源。
+
+* IPTV Pro[点击下载](https://github.com/AndroidDeals/AndroidDeals.github.io/releases/download/2019.12.17/iptv-pro.apk)也是一种常用的电视直播播放器，界面非常简洁，添加IPTV信号源即可观看。
 
 
 <HR>
