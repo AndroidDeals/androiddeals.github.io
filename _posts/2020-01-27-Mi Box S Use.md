@@ -45,7 +45,7 @@ Mi Box S本质上就是电视盒子，只不过没有国产盒子那么多的广
   * MacOS版[点击下载](https://github.com/AndroidDeals/AndroidDeals.github.io/releases/download/2019.12.17/adblink42-Macos.dmg)
   * Windows版[点击下载](https://github.com/AndroidDeals/AndroidDeals.github.io/releases/download/2019.12.17/adblink42-Win.exe)
 
-1.首先保证电脑和Mi Box S连接同一个网络，选择界面右上角设置图标，往下找到关于，点进去。
+1. 首先保证电脑和Mi Box S连接同一个网络，选择界面右上角设置图标，往下找到关于，点进去。
 ![preview](https://raw.githubusercontent.com/AndroidDeals/AndroidDeals.github.io/master/Screenshots/m1.png)
 
 ### 这时我们找到内部版本号，连续点击，会提示你再点击几次之后会拥有开发者选项。成功之后再返回设置，就可以看到开发者选项这一栏了。
@@ -56,16 +56,16 @@ Mi Box S本质上就是电视盒子，只不过没有国产盒子那么多的广
 ### 随即往下找到USB调试，大功告成啦。这时候，就可以用ADB工具进行安装第三方应用操作了。
 ![preview](https://raw.githubusercontent.com/AndroidDeals/AndroidDeals.github.io/master/Screenshots/m4.png)
 
-3.打开ADBlink这个应用，新增设备。各平台版本几乎没有差别。
+2. 打开ADBlink这个应用，新增设备。各平台版本几乎没有差别。
 ### 如图所示：
 ![preview](https://raw.githubusercontent.com/AndroidDeals/AndroidDeals.github.io/master/Screenshots/3.png)
 ![preview](https://raw.githubusercontent.com/AndroidDeals/AndroidDeals.github.io/master/Screenshots/4.png)
 
-4.这个时候点击connect，接下来电视机上会显示新设备认证，选择allow。允许之后，就连接成功了。
+3. 这个时候点击connect，接下来电视机上会显示新设备认证，选择allow。允许之后，就连接成功了。
 ![preview](https://raw.githubusercontent.com/AndroidDeals/AndroidDeals.github.io/master/Screenshots/5.png)
 ![preview](https://raw.githubusercontent.com/AndroidDeals/AndroidDeals.github.io/master/Screenshots/6.jpg)
 
-5.点击install APK，跳出文件夹，直接选择想要安装的apk应用安装就可以了。安装完成之后电视机右下角会有成功提示。
+4. 点击install APK，跳出文件夹，直接选择想要安装的apk应用安装就可以了。安装完成之后电视机右下角会有成功提示。
 ![preview](https://raw.githubusercontent.com/AndroidDeals/AndroidDeals.github.io/master/Screenshots/7.png)
 
 实际上这个应用功能不止如此，大家可以自己发掘。
