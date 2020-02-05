@@ -24,6 +24,8 @@ Fire TV本质上就是电视盒子，只不过没有国产盒子那么多的广�
 
 * Perfect Player[点击下载](https://github.com/AndroidDeals/AndroidDeals.github.io/releases/download/2019.12.17/Perfect-Player.apk)非常好用的电视直播播放器，可以根据自己的需要去添加IPTV信号源。
 
+* 文件管理器+，韩国人开发的一款文件管理器，测试感觉还是不错的，[点击下载](https://github.com/AndroidDeals/AndroidDeals.github.io/releases/download/2019.12.17/filemanager+.apk)
+
 * 添加新电视机和连接蓝牙设备的视频教程以及`ADB安装第三方应用`的教程请戳[这里](https://drive.google.com/open?id=1rTUeXJX8zQlmNUGqomyMLMwmMuaG9I8M)。
 
 <HR>
