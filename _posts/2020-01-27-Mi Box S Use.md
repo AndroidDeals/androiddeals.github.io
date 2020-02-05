@@ -31,6 +31,7 @@ Mi Box S本质上就是电视盒子，只不过没有国产盒子那么多的广
 
 * IPTV Pro[点击下载](https://github.com/AndroidDeals/AndroidDeals.github.io/releases/download/2019.12.17/iptv-pro.apk)也是一种常用的电视直播播放器，界面非常简洁，添加IPTV信号源即可观看。
 
+* 文件管理器+，韩国人开发的一款文件管理器，测试感觉还是不错的，[点击下载](https://github.com/AndroidDeals/AndroidDeals.github.io/releases/download/2019.12.17/filemanager+.apk)
 
 <HR>
  
