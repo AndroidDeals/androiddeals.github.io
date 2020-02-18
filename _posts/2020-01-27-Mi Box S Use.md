@@ -20,7 +20,7 @@ Mi Box S本质上就是电视盒子，只不过没有国产盒子那么多的广
 
 * Smart Youtube TV[点击下载](https://github.com/yuliskov/SmartYouTubeTV/releases/download/stable/smartyoutubetv_latest.apk)大名鼎鼎的第三方YouTube应用，可看4K，没有广告，来自[yuliskov](https://github.com/yuliskov/SmartYouTubeTV)。
 
-* SSRR[点击下载](https://github.com/AndroidDeals/AndroidDeals.github.io/releases/download/2019.12.17/SSRR-3.5.4.apk)，最广泛使用的科学上网工具，来自[Akkariiin](https://github.com/shadowsocksrr/shadowsocksr-android/releases)。需要注意的是，`添加订阅的时候需要配合鼠标`。
+* SSR[点击下载](https://github.com/AndroidDeals/AndroidDeals.github.io/releases/download/2019.12.17/shadowsocksr-android-3.6.0-fix.apk)，最广泛使用的科学上网工具。需要注意的是，`添加订阅的时候需要配合蓝牙蓝牙蓝牙鼠标`。
 
 
 * FireFox浏览器[点击下载](https://github.com/AndroidDeals/AndroidDeals.github.io/releases/download/2019.12.17/firefox_4.6.apk)谷歌商店没什么好用的网页浏览器，可以安装这个用一用。
