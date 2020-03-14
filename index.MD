@@ -7,7 +7,7 @@ title: 产品展示
    <a href="https://shop108859308.taobao.com/"><img src="https://img.shields.io/badge/%E6%88%91%E7%9A%84%E6%B7%98%E5%AE%9D%E5%BA%97%E9%93%BA-AndroidDeals-orange" alt="Taobao"></a>
 </div>
 
-
+<HR>
 
 
 ![](https://raw.githubusercontent.com/AndroidDeals/AndroidDeals.github.io/master/Screenshots/firetv.jpg)
