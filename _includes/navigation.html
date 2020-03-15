@@ -1,6 +1,24 @@
 <nav class="c-navigation {% if site.fixedNav == 'true' %}is-fixed{% endif %}">
+<div class="navbar-header page-scroll">
+            <button type="button" class="navbar-toggle">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
   <a class="navbar-brand" href="/">AndroidDeals</a>
-  
+        </div>
+<div class="navbar-collapse">
+                <ul class="nav navbar-nav navbar-right">
+                    <li><a href="/">主页</a></li>
+                  <li><a href="/specs/">产品参数</a></li>
+                  <li><a href="/categories/">分类</a></li>
+                  <li><a href="/articles/">玩机经验</a></li>
+                  <li><a href="/about/">关于</a></li>
+                  
+                    
+                </ul>
+            </div>  
   <div class="c-navigation__container u-container">
     <a class="c-navigation__item {% if page.url == '/' %}is-active{% endif %}" href="{{ "/" | prepend: site.baseurl }}">主页</a>
     <a class="c-navigation__item {% if page.url == '/specs/' %}is-active{% endif %}" href="{{ "/specs/" | prepend: site.baseurl }}">产品参数</a>
