@@ -1,4 +1,6 @@
 <nav class="c-navigation {% if site.fixedNav == 'true' %}is-fixed{% endif %}">
+  <a class="navbar-brand" href="/">AndroidDeals</a>
+  
   <div class="c-navigation__container u-container">
     <a class="c-navigation__item {% if page.url == '/' %}is-active{% endif %}" href="{{ "/" | prepend: site.baseurl }}">主页</a>
     <a class="c-navigation__item {% if page.url == '/specs/' %}is-active{% endif %}" href="{{ "/specs/" | prepend: site.baseurl }}">产品参数</a>
