@@ -1,12 +1,7 @@
 <!DOCTYPE html>
 <html class="t-{{ site.themeColor }}">
   {% include head.html %}
-  <body>
-    {% include navigation.html %}
-
-
-    {{ content }}
-
+  
 <!-- Side Catalog Container -->
 
 <div class="
@@ -14,14 +9,23 @@
             visible-lg-block
             sidebar-container
             catalog-container">
-    <div class="side-catalog">
+    <div class="side-categories">
         <hr class="hidden-sm hidden-xs">
         <h5>
-            <a class="catalog-toggle" href="#">CATALOG</a>
+            <a class="catalog-toggle" href="#">categories</a>
         </h5>
         <ul class="catalog-body"></ul>
     </div>
 </div>
+  
+  
+  
+  <body>
+    {% include navigation.html %}
+
+
+    {{ content }}
+
 
     
 <style>
