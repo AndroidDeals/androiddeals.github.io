@@ -1,8 +1,8 @@
-site: AndroidDeals
+site: Colorie
 url: 
-author: AndroidDeals
+author: Colorie
 author:
-  name: AndroidDeals
+  name: Colorie
   email: 
   url: 
   avatar: 
@@ -10,16 +10,24 @@ title: Colorie
 description: Colorie - Single column blog and portfolio Jekyll theme 
 logo: 
 image: 
-twitter:  
+twitter: ronaldsvilcins  
 twitter:
-  username:
-  creator:
+  username: ronaldsvilcins
+  creator: ronaldsvilcins
   card: summary
 social:
-  name: 
+  name: Ronalds Vilcins
   links:
- 
+    - https://twitter.com/#
+    - https://www.dribbble.com/#
+    - https://github.com/#
+    - https://codepen.io/#
+  
 permalink: pretty
+
+disqus:
+  name: "your disqus username" # required
+  noscript: "Please enable JavaScript to view the comments powered by Disqus." # optional
 
 baseurl:             ""
 
