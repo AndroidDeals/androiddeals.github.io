@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: project
 title:  "小米盒子国际版/Mi Box S入门指南"
 date:   2020-01-27 0:52:21 -0500
 categories: 原生安卓TV

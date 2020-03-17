@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: project
 title:  "Fire TV-我为何强烈推荐使用路由器科学上网？"
 date:   2019-12-24 13:48:21 -0500
 categories: 亚马逊火柴棍

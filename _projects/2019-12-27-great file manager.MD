@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: project
 title:  "可能是安卓盒子上最好用的文件管理器"
 date:   2019-12-27 22:38:21 -0500
 categories: 亚马逊火柴棍

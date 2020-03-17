@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: project
 title:  "过去的一年，我的电子垃圾们"
 date:   2020-01-10 21:31:21 -0500
 categories: 电子杂谈

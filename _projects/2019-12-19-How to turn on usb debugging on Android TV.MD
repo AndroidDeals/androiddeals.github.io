@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: project
 title:  "原生Android TV如何打开ADB调试"
 date:   2019-12-19 18:52:21 -0500
 categories: 原生安卓TV

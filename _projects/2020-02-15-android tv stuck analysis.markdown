@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: project
 title:  "原生Android TV卡顿原因剖析"
 date:   2020-02-15 0:52:21 -0500
 categories: 原生安卓TV
