@@ -38,6 +38,7 @@ header, main {
 @supports (display:grid) {
     .card {
         margin: 0
+        border-radius: 10px;
     }
 }
 .card:nth-child(1n) {
