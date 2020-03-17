@@ -1,11 +1,9 @@
-<nav class="c-navigation {% if site.fixedNav == 'true' %}is-fixed{% endif %}">
-            
-  <div class="c-navigation__container u-container">
-    <a class="c-navigation__item {% if page.url == '/' %}is-active{% endif %}" href="{{ "/" | prepend: site.baseurl }}">主页</a>
-    <a class="c-navigation__item {% if page.url == '/specs/' %}is-active{% endif %}" href="{{ "/specs/" | prepend: site.baseurl }}">产品参数</a>
-    <a class="c-navigation__item {% if page.url == '/categories/' %}is-active{% endif %}" href="{{ "/categories/" | prepend: site.baseurl }}">分类</a>
-    <a class="c-navigation__item {% if page.url == '/articles/' %}is-active{% endif %}" href="{{ "/articles/" | prepend: site.baseurl }}">玩机经验</a>
-    <a class="c-navigation__item {% if page.url == '/about/' %}is-active{% endif %}" href="{{ "/about/" | prepend: site.baseurl }}">关于</a>
-  </div>
-            
+<nav role="navigation">
+  <ul>
+    <li><a href="/" {% if page.url == "/" %}class="active"{% endif %}>Home</a></li>
+    <li><a href="/tags" {% if page.url == "/tags" %}class="active"{% endif %}>Tags</a></li>
+    <li><a href="/about" {% if page.url == "/about" %}class="active"{% endif %}>About</a></li>
+    <li><a href="/projects" {% if page.url == "/projects" %}class="active"{% endif %}>Projects</a></li>
+    <li><a href="/atom.xml">Feed</a></li>
+  </ul>
 </nav>

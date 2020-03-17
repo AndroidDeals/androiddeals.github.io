@@ -1,27 +1,30 @@
 ---
-layout: page
+layout: default
 ---
 
 
-<div align="center">
-   <a href="https://t.me/joinchat/HAPwwxAESAEfq3HGzYo73A/"><img src="https://img.shields.io/badge/%E6%88%91%E7%9A%84%E7%94%B5%E6%8A%A5%E7%BE%A4-success?logo=telegram" alt="Telegram"></a>
-   <a href="https://shop108859308.taobao.com/"><img src="https://img.shields.io/badge/%E6%88%91%E7%9A%84%E6%B7%98%E5%AE%9D%E5%BA%97%E9%93%BA-AndroidDeals-orange" alt="Taobao"></a>
-</div>
+
+<article role="article" class="post">
+	<div class="post-meta">
+  <h1>{{ page.title }}</h1>
+  <time class="date" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time>
+	</div>
+
+  {{ content }}
+  
+  <br>
+  
+  <p>
+      Tagged 
+      {% for tag in page.tags %}
+      <a href="/tag/{{tag}}">#{{tag}}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}.
+    </p>
+                   
+ <hr style="height:2px; border:none; margin: 2rem 0; background-color:#e7e9ee;">
 
 
-{{ content }}
+  {% disqus %}
+  
+</article>
 
-
-
-<div id="comments"></div>
-<script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
-<script src='//unpkg.com/valine/dist/Valine.min.js'></script>
-<script>
-    new Valine({
-        el: '#comments',
-        app_id: 'HObYg6DWL9XooalILHc3rcL1-gzGzoHsz',
-        app_key: 'XKbkS4IyRihR3kyinygkHNcT',
-        placeholder:'说点什么',
-    });
-</script>
 
