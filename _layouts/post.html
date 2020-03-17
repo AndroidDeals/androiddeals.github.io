@@ -1,30 +1,25 @@
----
-layout: default
----
-
-
-
-<article role="article" class="post">
-	<div class="post-meta">
-  <h1>{{ page.title }}</h1>
-  <time class="date" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time>
-	</div>
-
-  {{ content }}
-  
-  <br>
-  
-  <p>
-      Tagged 
-      {% for tag in page.tags %}
-      <a href="/tag/{{tag}}">#{{tag}}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}.
-    </p>
-                   
- <hr style="height:2px; border:none; margin: 2rem 0; background-color:#e7e9ee;">
-
-
-  {% disqus %}
-  
-</article>
-
-
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="1894.3">
+  <style type="text/css">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 14.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000}
+    p.p3 {margin: 0.0px 0.0px 12.0px 0.0px; line-height: 14.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000}
+    p.p4 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 14.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000; min-height: 14.0px}
+    span.s1 {font-kerning: none}
+    span.s2 {text-decoration: underline ; font-kerning: none; color: #0000e9; -webkit-text-stroke: 0px #0000e9}
+  </style>
+</head>
+<body>
+<p class="p1"><span class="s1">--- layout: default ---</span></p>
+<h1 style="margin: 0.0px 0.0px 14.9px 0.0px; line-height: 22.0px; font: 18.0px Times; color: #000000; -webkit-text-stroke: #000000"><span class="s1"><b>{{ page.title }}</b></span></h1>
+<p class="p1"><span class="s1">{{ page.date | date: "%B %-d, %Y" }}<span class="Apple-converted-space"> </span></span></p>
+<p class="p1"><span class="s1">{{ content }}<span class="Apple-converted-space"> </span></span></p>
+<p class="p3"><span class="s1">Tagged {% for tag in page.tags %} <a href="file:///tag/%7B%7Btag%7D%7D"><span class="s2">#{{tag}}</span></a>{% unless forloop.last %}, {% endunless %}{% endfor %}.<span class="Apple-converted-space"> </span></span></p>
+<p class="p4"><span class="s1"></span><br></p>
+</body>
+</html>
