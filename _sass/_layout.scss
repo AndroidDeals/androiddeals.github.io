@@ -33,13 +33,13 @@ header, main {
     margin-left: 1rem;
     margin-right: 1rem;
     flex: 1 1 10rem;
-    border-radius: 10px;
+    
 }
 
 @supports (display:grid) {
     .card {
         margin: 0;
-        border-radius: 10px;
+       
         
     }
 }
@@ -1114,6 +1114,7 @@ input[type=button].btn-block, input[type=reset].btn-block, input[type=submit].bt
 
 
 .navbar {
+    border: 1px solid #00000024;
     position: relative;
     display: -ms-flexbox;
     display: flex;
