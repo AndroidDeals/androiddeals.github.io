@@ -8,3 +8,45 @@
   </ul>
 </nav>
 
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="/static/lib/bootstrap/4.0.0/css/bootstrap.min.css">
+<script src="/static/lib/jquery/3.3.1/jquery.min.js"></script>
+<script src="/static/lib/popper.js/1.12.9/umd/popper.min.js"></script>
+<script src="/static/lib/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+<div class="container">
+    <br/>
+    <h1>折叠导航栏</h1>
+    <nav class="navbar navbar-expand-md bg-dark navbar-dark">
+  <!-- Brand -->
+  <a class="navbar-brand" href="#">导航栏</a>
+
+  <!-- Toggler/collapsibe Button -->
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <!-- Navbar links -->
+  <div class="collapse navbar-collapse" id="collapsibleNavbar">
+    <ul class="navbar-nav">
+    <li class="nav-item">
+      <a class="nav-link active" href="#">首页</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="#">Python</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="#">PHP</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link disabled" href="#">Perl</a>
+    </li>
+  </ul>
+  </div> 
+</nav>
+    <br/>
+    
+    <p>通常，小屏幕上会折叠导航栏，用户通过点击来显示导航选项</p>
+<p>要创建折叠导航栏，可以在按钮上添加 <code>class="navbar-toggle"</code> , 
+ <code>data-toggle="collapse"</code> 与 data-target="# <strong>thetarget</strong>" CSS 类</p>
+<p>然后在设置了 <code>class="collapse navbar-collapse"</code> CSS 类的 div 上包裹导航内容（链接）, div 元素上的 id 匹配按钮data-target的上指定的 id</p>
+</div>
