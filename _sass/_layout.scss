@@ -233,31 +233,31 @@ footer {
 
 
 
-.button {
+button {
     border-radius:0
 }
 
-.button:focus {
+button:focus {
     outline: 1px dotted;
     outline:5px auto -webkit-focus-ring-color
 }
 
-.button, input, optgroup, select, textarea {
+button, input, optgroup, select, textarea {
     margin: 0;
     font-family: inherit;
     font-size: inherit;
     line-height:inherit
 }
 
-.button, input {
+button, input {
     overflow:visible
 }
 
-.button, select {
+button, select {
     text-transform:none
 }
 
-.select {
+select {
     word-wrap:normal
 }
 
