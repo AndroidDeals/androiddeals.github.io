@@ -33,7 +33,7 @@
 
 
 <!-- HTML elements for search -->
-<input type="text" id="search-input" placeholder="Search blog posts..">
+<input type="text" id="search-input" placeholder="嗖.">
 <ul id="results-container"></ul>
 
 <!-- or without installing anything -->
@@ -45,7 +45,7 @@
         resultsContainer: document.getElementById('results-container'),
         json: '/search.json',
         searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a></li>',
-        noResultsText: 'No results found',
+        noResultsText: '没有结果',
         limit: 5,
         fuzzy: false,
         exclude: ['Welcome']
@@ -54,16 +54,6 @@
 
 
 
-
-<form class="form-inline" style="float:right;"> 
-
-   <input class="form-control" id="search-input" type="text" placeholder="嗖." style="min-width:100px;">
-
-     <button class="btn btn-success" type="button">搜索一下</button>
-
-        <ul id="results-container"></ul>
-
- </form> 
 
  </div>  
 </nav>
