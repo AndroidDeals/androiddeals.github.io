@@ -45,12 +45,12 @@
 <script src="/js/simple-jekyll-search.js"></script>
 
 <script>
-      SimpleJekyllSearch({
+      window.simpleJekyllSearch = new SimpleJekyllSearch({
         searchInput: document.getElementById('search-input'),
         resultsContainer: document.getElementById('results-container'),
-        json: '/Simple-Jekyll-Search/search.json',
+        json: '/search.json',
         searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a></li>',
-        noResultsText: '没有结果',
+        noResultsText: 'No results found',
         limit: 5,
         fuzzy: false,
         exclude: ['Welcome']
