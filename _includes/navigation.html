@@ -36,9 +36,10 @@
 
  </div>  
 
+</nav>
 
 <div id="search-demo-container"  style="max-width: 40em;">
-      <input type="text" id="search-input" placeholder="search...">
+      <input type="text" id="search-input" placeholder="嗖...">
       <ul id="results-container"></ul>
     </div>
 
@@ -50,19 +51,12 @@
         resultsContainer: document.getElementById('results-container'),
         json: '/search.json',
         searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a></li>',
-        noResultsText: 'No results found',
+        noResultsText: '没有结果呢',
         limit: 5,
         fuzzy: false,
         exclude: ['Welcome']
       })
     </script>
-
-
-
-
-</nav>
-
-
 
 
 
