@@ -41,11 +41,12 @@
 <script src="https://unpkg.com/simple-jekyll-search/dest/simple-jekyll-search.min.js"></script>
 
 <script>
-        simpleJekyllSearch = new SimpleJekyllSearch({
+        simpleJekyllSearch = SimpleJekyllSearch({
         searchInput: document.getElementById('search-input'),
         resultsContainer: document.getElementById('results-container'),
-        json: '/search.json',
+        json: '/Simple-Jekyll-Search/search.json',
         searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a></li>',
+        noResultsText: 'No results found',
         noResultsText: '没有结果',
         limit: 5,
         fuzzy: false,
