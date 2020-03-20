@@ -36,6 +36,33 @@
  </div>  
 </nav>
 
+
+<div id="search-demo-container"  style="
+    ax-width: 40em;">
+      <input type="text" id="search-input" placeholder="search...">
+      <ul id="results-container"></ul>
+    </div>
+
+<script>
+        var sjs = SimpleJekyllSearch({
+        searchInput: document.getElementById('search-input'),
+        resultsContainer: document.getElementById('results-container'),
+        json: '/search.json'
+        searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a></li>',
+        noResultsText: '没有结果',
+        limit: 5,
+        fuzzy: false,
+        exclude: ['Welcome']
+      })
+</script>
+
+
+
+
+
+
+
+
 </body>
 
 
@@ -48,9 +75,6 @@
 <!-- HTML elements for search -->
 <input type="text" style="border:1px border-color: #a5a5a57a; solid;border-radius:5px;  width: -webkit-fill-available;" id="search-input" placeholder="嗖.">
 <ul id="results-container"></ul>
-
-<!-- or without installing anything -->
-<script src="https://unpkg.com/simple-jekyll-search/dest/simple-jekyll-search.min.js"></script>
 
 <script>
         var sjs = SimpleJekyllSearch({
