@@ -31,10 +31,31 @@
       </li>    
     </ul>
 
-<form class="form-inline" style="float:right;"> 
-    <input class="form-control" type="text" placeholder="嗖." style="min-width:100px;">
-    <button class="btn btn-success" type="button">搜索一下</button>
-  </form>
+
+<!-- HTML elements for search -->
+<input type="text" id="search-input" placeholder="Search blog posts..">
+<ul id="results-container"></ul>
+
+<!-- or without installing anything -->
+<script src="https://unpkg.com/simple-jekyll-search/dest/simple-jekyll-search.min.js"></script>
+
+var sjs = SimpleJekyllSearch({
+  searchInput: document.getElementById('search-input'),
+  resultsContainer: document.getElementById('results-container'),
+  json: '/search.json'
+})
+
+
+
+
+<!-- <form class="form-inline" style="float:right;"> -->
+
+<!--     <input class="form-control" type="text" placeholder="嗖." style="min-width:100px;">-->
+
+<!--     <button class="btn btn-success" type="button">搜索一下</button>-->
+
+<!--  </form> -->
+
   </div>  
 </nav>
 
