@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: compress
 title: 关于
 permalink: /about/
 ---
