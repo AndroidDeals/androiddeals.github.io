@@ -2,61 +2,29 @@
 layout: default
 ---
 
-<div class="grid">
-
-  {% for post in site.posts reversed %}
-  
-    <article role="article" class="card">
-	    <div class="meta">
-      <h2><a href="{{ site.baseurl }}{{ post.url }}">
-        {{ post.title }}
-      </a></h2>
-      <p>{{ post.summary }}</p>
-        <time class="date" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y" }} &middot; {{ post.category }}</time>
-	    </div>
-    </article>
-    
-    
-  {% endfor %}
-  
-</div>
-
-
-
-<div class="grid">
-
-  {% for post in site.posts %}
+{% for post in site.posts %}
     {% if post.top != true %}
         {% continue %}
     {% endif %}
-  
-    <article role="article" class="card">
-      <div class="meta">
-      <h2><a href="{{ site.baseurl }}{{ post.url }}">
-        {{ post.title }}
-      </a></h2>
-      <p>{{ post.summary }}</p>
-        <time class="date" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y" }} &middot; {{ post.category }}</time>
-      </div>
-    </article>
-    
-    {% for post in site.posts %}
+    <div class="card">置顶文章</div>
+{% endfor %}
+
+{% for post in site.posts %}
     {% if post.top == true %}
         {% continue %}
     {% endif %}
-   <article role="article" class="card">
-      <div class="meta">
-      <h2><a href="{{ site.baseurl }}{{ post.url }}">
-        {{ post.title }}
-      </a></h2>
-      <p>{{ post.summary }}</p>
-        <time class="date" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y" }} &middot; {{ post.category }}</time>
-      </div>
-    </article>
-    
-  {% endfor %}
-  
-</div>
+    <div class="card">玩机经验</div>
+{% endfor %}
+
+
+
+
+
+
+
+
+
+
 
 
 
