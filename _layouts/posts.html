@@ -5,9 +5,9 @@ layout: default
 <div class="grid">
 
   {% for post in site.posts %}
-  {* if post.top != true *}
-  {* continue *}
-  {* endif *}
+       {% if post.top != true %}
+       {% continue %}
+       {% endif %}
   
   <article role="article" class="card">
    <div class="meta">
