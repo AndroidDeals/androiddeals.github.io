@@ -1,14 +1,12 @@
 ---
 layout: default
 ---
-
+<h2 class="category-head" style="color: #96d0c3;">置顶文章</h2>
 <div class="grid">
-
   {% for post in site.posts %}
-       {% if post.top != true %}
-       {% continue %}
-       {% endif %}
-  
+  {% if post.top != true %}
+  {% continue %}
+  {% endif %} 
   <article role="article" class="card">
    <div class="meta">
     <h2><a href="{{ site.baseurl }}{{ post.url }}">
@@ -18,8 +16,6 @@ layout: default
     <time class="date" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y" }} &middot; {{ post.category }}</time>
   </div>
 </article>
-
-
 {% endfor %}
 
 </div>
