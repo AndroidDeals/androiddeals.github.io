@@ -9,13 +9,30 @@ layout: default
   {% endif %} 
   <article role="article" class="card">
    <div class="meta">
-    <h2><a href="{{ site.baseurl }}{{ post.url }}">
+    <h3><a href="{{ site.baseurl }}{{ post.url }}">
       {{ post.title }}
-    </a></h2>
+    </a></h3>
     <p>{{ post.summary }}</p>
     <time class="date" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y" }} &middot; {{ post.category }}</time>
   </div>
 </article>
 {% endfor %}
+</div>
 
+<h2 class="category-head" style="color: #f5882d;text-align: center;">普通吐槽</h2>
+<div class="grid">
+  {% for post in site.posts %}
+  {% if post.top == true %}
+  {% continue %}
+  {% endif %} 
+  <article role="article" class="card">
+   <div class="meta">
+    <h3><a href="{{ site.baseurl }}{{ post.url }}">
+      {{ post.title }}
+    </a></h3>
+    <p>{{ post.summary }}</p>
+    <time class="date" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y" }} &middot; {{ post.category }}</time>
+  </div>
+</article>
+{% endfor %}
 </div>
