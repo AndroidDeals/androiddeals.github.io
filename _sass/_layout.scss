@@ -199,6 +199,11 @@ footer {
     text-align: center;
 }
 
+#hline {
+    height: 1px;
+    background-color: red; /* 不支持线性的时候显示 */
+    background-image: linear-gradient(to right, red , blue , green,yellow);
+}
 
 #back-top a { /* back to top button */
     text-align: center;
