@@ -8,7 +8,7 @@ top: true
 ---
 # 它的使用步骤是什么？
 Mi Box S本质上就是电视盒子，只不过没有国产盒子那么多的广告植入。
-1. 首次开机激活，连上可以科学上网(例如`openwrt、梅林、官改`)固件的路由器，登录谷歌账号激活设备。
+1. 首次开机激活，连上可以科学上网(例如`Openwrt、梅林、官改`)固件的路由器，登录谷歌账号激活设备。
 2. 激活之后，进入主界面。打开你想看的应用，登录其账号开始观看。
 ![preview](https://raw.githubusercontent.com/AndroidDeals/AndroidDeals.github.io/master/Screenshots/mihome.png)
 
