@@ -16,7 +16,6 @@ top: true
 
 登录地址192.168.10.1 密码password。
 
-欢迎fork代码😝😝😝
 
 
 
