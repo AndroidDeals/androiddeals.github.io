@@ -1,45 +1,38 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
-
-permalink: /:name
-
-# other links
-twitter_username:
-github_username:  AndroidDeals
-email: chuangwei324@gmail.com
-
-
-description_footer: 玩机历程！
-
-# comments
-# two ways to comment, only choose one, and use your own short name
-# 两种评论插件，选一个就好了，使用自己的 short_name
-duoshuo_shortname: #hygblog
-disqus_shortname: #gaohaoyang
-
-
-
-# Build settings
-markdown: kramdown
-
-# port
-# port: 1234
-
-# url
-category_dir: category/
-tag_dir: tag/
-
-# excerpt
-excerpt_separator: "\n\n\n\n"
-
-# paginate
+# ----------- CONFIGURABLE START -----------
+title:            "AndroidDeals|jekyll blog|GitHub blog"
+description:      展示一下产品"
+url:              https://androiddeals.github.io # 域名
+signoff:          "androiddeals" # Your name
+facebook_appid:   #liberxue
+google_analytics: 
+share:            true 
+# 分页
+paginate: 15
+paginate_path: "liberxuepage:num"
 gems: [jekyll-paginate]
-paginate: 10
+links:
+  - name:         首页
+    url:          /
+    external:     false
+  - name:         教程
+    url:          /post
+    external:     false
+  - name:         c参数
+    url:          /specs
+    external:     false
+  - name:         归档
+    url:          /archives
+    external:     false
+  - name:         标签
+    url:          /tags
+    external:     false
+  - name:         关于
+    url:          /about
+    external:     false
+# ------------ CONFIGURABLE END ------------
 
-plugins:
-  - jekyll-paginate
+#permalink:        /:categories/:title.html
+permalink: /:name
+defaults:
+  - values:
+      layout: "default"
