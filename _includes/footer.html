@@ -1,3 +1,5 @@
-<footer>
-    <p>&copy; {{ site.title }} {{ site.time | date: '%Y' }} |  
-</footer>
+{% include svg-icons.html %}
+
+{% if site.footer-text %}
+<p>{{ site.footer-text }}</p>
+{% endif %}
