@@ -24,6 +24,19 @@ header, main {
     grid-gap: 1rem
 }
 
+.products{
+	width:400px;
+	height:auto;
+	float:left;
+	display:inline
+	margin-left: 20px
+}
+.jiaocheng{
+	width:auto;
+	height:25px;
+	display:inline;	
+}
+
 .card {
     display: flex;
     align-items: left;
