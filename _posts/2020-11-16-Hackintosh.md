@@ -17,7 +17,6 @@ category: 黑苹果
   <summary>支持的系统版本</summary>
   
 - macOS Catalina 10.15.7   
-- ~~macOS Big Sur 11 Beta~~ 因退回10.15.x系统，暂不测试  
 
 
 </details>
