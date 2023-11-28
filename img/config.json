@@ -1,8 +1,8 @@
 {
   "latestVersion": "1.0",
-  "latestVersionCode": 375,
+  "latestVersionCode": 3,
   "disableRequest": {
-    "below": 374
+    "below": 1
   },
   "url": "http://linuxnewbee.run/1.apk",
   "releaseNotes": [
