@@ -1,13 +1,14 @@
 {
-  "latestVersion": "22.0",
-  "latestVersionCode": 22,
+  "latestVersion": "1.0",
+  "latestVersionCode": 40,
   "disableRequest": {
-    "below": 10,
-    "on": "40 20 353"
+    "below": 374
   },
-  "url": "http://linuxnewbee.run/1.apk",
+  "url": "http://linuxnewbee.run/",
   "releaseNotes": [
     "This is the text which will be shown on Update",
-    "Another Release Note""You can Use <b>Text</b> <i>Formatting</i> <u>Too</u>"
+    "This is Awesome",
+    "Please Enjoy My Friend",
+    "<b>This</b> is Just for <i>Testing</i>"
   ]
 }
