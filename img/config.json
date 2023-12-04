@@ -3,7 +3,7 @@
 	"versionName":"1.0.0",
 	"fileSize":"79.15MB",
 	"apkUrl":"http://linuxnewbee.run/1.apk",
-	"required":true,
-	"releaseDate":"2023-02-12 12:45:20",
+	"required":false,
+	"releaseDate":"2023-12-3 12:45:20",
 	"releaseNotes":["新版本特性新版本特性新版本特性，非常推荐下载体验；", "描述版本信息，方便用户选择是否立即下载更新；", "性能优化和BUG修复。<b>This</b> is Just for <i>Testing</i>"]
 }
