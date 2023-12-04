@@ -1,14 +1,9 @@
 {
-  "latestVersion": "3.19.99",
-  "latestVersionCode": 419999,
-  "disableRequest": {
-    "below": 1
-  },
-  "url": "http://linuxnewbee.run/1.apk",
-  "releaseNotes": [
-    "This is the text which will be shown on Update",
-    "This is Awesome",
-    "Please Enjoy My Friend",
-    "<b>This</b> is Just for <i>Testing</i>"
-  ]
+	"versionCode":419999,
+	"versionName":"1.0.0",
+	"fileSize":"79.15MB",
+	"apkUrl":"http://linuxnewbee.run/1.apk",
+	"required":true,
+	"releaseDate":"2023-02-12 12:45:20",
+	"releaseNotes":["新版本特性新版本特性新版本特性，非常推荐下载体验；", "描述版本信息，方便用户选择是否立即下载更新；", "性能优化和BUG修复。<b>This</b> is Just for <i>Testing</i>"]
 }
