@@ -1,10 +1,10 @@
 {
   "latestVersion": "1.2.2",
-  "latestVersionCode": 419999,
+  "latestVersionCode": 10,
   "url": "http://linuxnewbee.run/1.apk",
   "releaseNotes": [
-    "- First evolution",
-    "- Second evolution",
-    "- Bug fixes"
+    "- 第一个上架版本",
+    "- 添加后台更新功能",
+    "- 添加反馈图标功能"
   ]
 }
