@@ -1,10 +1,9 @@
 {
   "latestVersion": "1.0.0",
-  "latestVersionCode": 6,
+  "latestVersionCode": 7,
   "url": "http://linuxnewbee.run/Realism-1.0.0.apk",
   "releaseNotes": [
     "- 新增一些图标",
-    "- 添加更新功能",
     "- 添加反馈图标功能"
   ]
 }
