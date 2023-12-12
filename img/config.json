@@ -1,9 +1,8 @@
 {
-  "latestVersion": "1.0.0",
-  "latestVersionCode": 7,
-  "url": "http://linuxnewbee.run/Realism-1.0.0.apk",
+  "latestVersion": "1.0.2",
+  "latestVersionCode": 8,
+  "url": "http://linuxnewbee.run/Realism-1.0.2.apk",
   "releaseNotes": [
-    "- 新增一些图标",
-    "- 添加反馈图标功能"
+    "- 新增一些反馈的图标"
   ]
 }
